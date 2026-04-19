@@ -66,3 +66,5 @@ app.get('/api/words/:categoryId', (req, res) => {
 app.listen(PORT, () => {
     console.log(`🚀 Бэкенд сервер успешно запущен на http://localhost:${PORT}`);
 });
+
+module.exports = app;
