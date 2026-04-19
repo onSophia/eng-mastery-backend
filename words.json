@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "category": "health",
+        "en": "Prescription",
+        "ru": "Рецепт (от врача)",
+        "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400&q=80"
+    },
+    {
+        "id": 2,
+        "category": "health",
+        "en": "Surgery",
+        "ru": "Хирургическая операция / Операция",
+        "imageUrl": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=400&q=80"
+    },
+    {
+        "id": 3,
+        "category": "health",
+        "en": "Symptom",
+        "ru": "Симптом / Признак",
+        "imageUrl": "https://images.unsplash.com/photo-1584820927498-cafe8c12f207?w=400&q=80"
+    },
+    {
+        "id": 4,
+        "category": "health",
+        "en": "Treatment",
+        "ru": "Лечение / Процедура",
+        "imageUrl": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=400&q=80"
+    },
+    {
+        "id": 5,
+        "category": "health",
+        "en": "Disease",
+        "ru": "Болезнь / Заболевание",
+        "imageUrl": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=400&q=80"
+    },
+    {
+        "id": 6,
+        "category": "health",
+        "en": "Painkiller",
+        "ru": "Обезболивающее / Болеутоляющее",
+        "imageUrl": "https://images.unsplash.com/photo-1628771065518-0d82f1938462?w=400&q=80"
+    },
+    {
+        "id": 7,
+        "category": "health",
+        "en": "Recover",
+        "ru": "Выздоравливать / Восстанавливаться",
+        "imageUrl": "https://images.unsplash.com/photo-1505576399279-565b52d4ac71?w=400&q=80"
+    },
+    {
+        "id": 8,
+        "category": "health",
+        "en": "Insomnia",
+        "ru": "Бессонница",
+        "imageUrl": "https://images.unsplash.com/photo-1554656041-e9463c613e5f?w=400&q=80"
+    },
+    {
+        "id": 9,
+        "category": "health",
+        "en": "Blood pressure",
+        "ru": "Кровяное давление / Давление",
+        "imageUrl": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=400&q=80"
+    },
+    {
+        "id": 10,
+        "category": "health",
+        "en": "Vaccine",
+        "ru": "Вакцина / Прививка",
+        "imageUrl": "https://images.unsplash.com/photo-1611077544664-0fb45b5976b3?w=400&q=80"
+    },
+    {
+        "id": 11,
+        "category": "travel",
+        "en": "Departure",
+        "ru": "Отправление / Вылет",
+        "imageUrl": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=400&q=80"
+    },
+    {
+        "id": 12,
+        "category": "travel",
+        "en": "Luggage",
+        "ru": "Багаж / Чемоданы",
+        "imageUrl": "https://images.unsplash.com/photo-1554650505-1823ebfc9e7c?w=400&q=80"
+    },
+    {
+        "id": 13,
+        "category": "travel",
+        "en": "Accommodation",
+        "ru": "Жилье / Размещение",
+        "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&q=80"
+    },
+    {
+        "id": 14,
+        "category": "travel",
+        "en": "Destination",
+        "ru": "Место назначения / Пункт назначения",
+        "imageUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=400&q=80"
+    },
+    {
+        "id": 15,
+        "category": "travel",
+        "en": "Itinerary",
+        "ru": "Маршрут / План поездки",
+        "imageUrl": "https://images.unsplash.com/photo-1500835556837-99ac94a94552?w=400&q=80"
+    },
+    {
+        "id": 16,
+        "category": "travel",
+        "en": "Delay",
+        "ru": "Задержка / Опоздание",
+        "imageUrl": "https://images.unsplash.com/photo-1518291583008-8e6c43314088?w=400&q=80"
+    },
+    {
+        "id": 17,
+        "category": "travel",
+        "en": "Passenger",
+        "ru": "Пассажир",
+        "imageUrl": "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?w=400&q=80"
+    },
+    {
+        "id": 18,
+        "category": "travel",
+        "en": "Customs",
+        "ru": "Таможня",
+        "imageUrl": "https://images.unsplash.com/photo-1587327893113-d021c3260710?w=400&q=80"
+    },
+    {
+        "id": 19,
+        "category": "travel",
+        "en": "Boarding pass",
+        "ru": "Посадочный талон / Билет",
+        "imageUrl": "https://images.unsplash.com/photo-1554224155-1696413565d3?w=400&q=80"
+    },
+    {
+        "id": 20,
+        "category": "travel",
+        "en": "Sightseeing",
+        "ru": "Осмотр достопримечательностей / Экскурсия",
+        "imageUrl": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=400&q=80"
+    },
+    {
+        "id": 21,
+        "category": "business",
+        "en": "Negotiation",
+        "ru": "Переговоры",
+        "imageUrl": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=400&q=80"
+    },
+    {
+        "id": 22,
+        "category": "business",
+        "en": "Contract",
+        "ru": "Договор / Контракт",
+        "imageUrl": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=400&q=80"
+    },
+    {
+        "id": 23,
+        "category": "business",
+        "en": "Revenue",
+        "ru": "Выручка / Доход",
+        "imageUrl": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=400&q=80"
+    },
+    {
+        "id": 24,
+        "category": "business",
+        "en": "Employee",
+        "ru": "Сотрудник / Работник",
+        "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&q=80"
+    },
+    {
+        "id": 25,
+        "category": "business",
+        "en": "Deadline",
+        "ru": "Крайний срок / Дедлайн",
+        "imageUrl": "https://images.unsplash.com/photo-1506784951209-6854d591c3d9?w=400&q=80"
+    },
+    {
+        "id": 26,
+        "category": "business",
+        "en": "Profit",
+        "ru": "Прибыль",
+        "imageUrl": "https://images.unsplash.com/photo-1579532537598-459ecdaf39cc?w=400&q=80"
+    },
+    {
+        "id": 27,
+        "category": "business",
+        "en": "Headquarters",
+        "ru": "Главный офис / Штаб-квартира",
+        "imageUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&q=80"
+    },
+    {
+        "id": 28,
+        "category": "business",
+        "en": "Investment",
+        "ru": "Инвестиция / Вложение",
+        "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=400&q=80"
+    },
+    {
+        "id": 29,
+        "category": "business",
+        "en": "Competitor",
+        "ru": "Конкурент / Соперник",
+        "imageUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&q=80"
+    },
+    {
+        "id": 30,
+        "category": "business",
+        "en": "Entrepreneur",
+        "ru": "Предприниматель / Бизнесмен",
+        "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=400&q=80"
+    }
+]
