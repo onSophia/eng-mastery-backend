@@ -72812,5 +72812,1405 @@
         "en": "Evolution",
         "ru": "Эволюция",
         "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&q=80"
+    },
+    {
+        "id": 1,
+        "category": "dentist",
+        "en": "Dentist",
+        "ru": "Стоматолог",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 2,
+        "category": "dentist",
+        "en": "Tooth",
+        "ru": "Зуб",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 3,
+        "category": "dentist",
+        "en": "Teeth",
+        "ru": "Зубы",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 4,
+        "category": "dentist",
+        "en": "Gum",
+        "ru": "Десна",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 5,
+        "category": "dentist",
+        "en": "Enamel",
+        "ru": "Эмаль",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 6,
+        "category": "dentist",
+        "en": "Dentin",
+        "ru": "Дентин",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 7,
+        "category": "dentist",
+        "en": "Pulp",
+        "ru": "Пульпа",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 8,
+        "category": "dentist",
+        "en": "Root",
+        "ru": "Корень (зуба)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 9,
+        "category": "dentist",
+        "en": "Crown",
+        "ru": "Коронка",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 10,
+        "category": "dentist",
+        "en": "Jaw",
+        "ru": "Челюсть",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 11,
+        "category": "dentist",
+        "en": "Incisor",
+        "ru": "Резец",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 12,
+        "category": "dentist",
+        "en": "Canine",
+        "ru": "Клык",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 13,
+        "category": "dentist",
+        "en": "Premolar",
+        "ru": "Премоляр",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 14,
+        "category": "dentist",
+        "en": "Molar",
+        "ru": "Моляр",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 15,
+        "category": "dentist",
+        "en": "Wisdom tooth",
+        "ru": "Зуб мудрости",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 16,
+        "category": "dentist",
+        "en": "Saliva",
+        "ru": "Слюна",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 17,
+        "category": "dentist",
+        "en": "Palate",
+        "ru": "Нёбо",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 18,
+        "category": "dentist",
+        "en": "Tongue",
+        "ru": "Язык",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 19,
+        "category": "dentist",
+        "en": "Mouth",
+        "ru": "Рот",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 20,
+        "category": "dentist",
+        "en": "Lips",
+        "ru": "Губы",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 21,
+        "category": "dentist",
+        "en": "Alveolar bone",
+        "ru": "Альвеолярная кость",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 22,
+        "category": "dentist",
+        "en": "Cementum",
+        "ru": "Цемент (корня зуба)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 23,
+        "category": "dentist",
+        "en": "Apex",
+        "ru": "Верхушка корня",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 24,
+        "category": "dentist",
+        "en": "Root canal",
+        "ru": "Корневой канал",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 25,
+        "category": "dentist",
+        "en": "Bite",
+        "ru": "Прикус / Укус",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 26,
+        "category": "dentist",
+        "en": "Smile",
+        "ru": "Улыбка",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 27,
+        "category": "dentist",
+        "en": "Maxilla",
+        "ru": "Верхняя челюсть",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 28,
+        "category": "dentist",
+        "en": "Mandible",
+        "ru": "Нижняя челюсть",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 29,
+        "category": "dentist",
+        "en": "Nerve",
+        "ru": "Нерв",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 30,
+        "category": "dentist",
+        "en": "Blood vessel",
+        "ru": "Кровеносный сосуд",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 31,
+        "category": "dentist",
+        "en": "Tissue",
+        "ru": "Ткань (биологическая)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 32,
+        "category": "dentist",
+        "en": "Oral cavity",
+        "ru": "Ротовая полость",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 33,
+        "category": "dentist",
+        "en": "Uvula",
+        "ru": "Язычок (нёбный)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 34,
+        "category": "dentist",
+        "en": "Tonsil",
+        "ru": "Миндалина",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 35,
+        "category": "dentist",
+        "en": "Frenulum",
+        "ru": "Уздечка",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 36,
+        "category": "dentist",
+        "en": "Mucosa",
+        "ru": "Слизистая оболочка",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 37,
+        "category": "dentist",
+        "en": "Salivary gland",
+        "ru": "Слюнная железа",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 38,
+        "category": "dentist",
+        "en": "Temporomandibular joint",
+        "ru": "Височно-нижнечелюстной сустав",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 39,
+        "category": "dentist",
+        "en": "Milk teeth",
+        "ru": "Молочные зубы",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 40,
+        "category": "dentist",
+        "en": "Permanent teeth",
+        "ru": "Постоянные зубы",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 41,
+        "category": "dentist",
+        "en": "Primary teeth",
+        "ru": "Первичные (молочные) зубы",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 42,
+        "category": "dentist",
+        "en": "Deciduous teeth",
+        "ru": "Выпадающие (молочные) зубы",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 43,
+        "category": "dentist",
+        "en": "Cuspid",
+        "ru": "Клык (термин)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 44,
+        "category": "dentist",
+        "en": "Bicuspid",
+        "ru": "Премоляр (двубугорковый зуб)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 45,
+        "category": "dentist",
+        "en": "Anterior teeth",
+        "ru": "Передние зубы",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 46,
+        "category": "dentist",
+        "en": "Posterior teeth",
+        "ru": "Жевательные зубы",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 47,
+        "category": "dentist",
+        "en": "Facial",
+        "ru": "Лицевой",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 48,
+        "category": "dentist",
+        "en": "Lingual",
+        "ru": "Язычный",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 49,
+        "category": "dentist",
+        "en": "Mesial",
+        "ru": "Медиальный",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 50,
+        "category": "dentist",
+        "en": "Distal",
+        "ru": "Дистальный",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 51,
+        "category": "dentist",
+        "en": "Toothbrush",
+        "ru": "Зубная щетка",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 52,
+        "category": "dentist",
+        "en": "Toothpaste",
+        "ru": "Зубная паста",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 53,
+        "category": "dentist",
+        "en": "Dental floss",
+        "ru": "Зубная нить",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 54,
+        "category": "dentist",
+        "en": "Mouthwash",
+        "ru": "Ополаскиватель для рта",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 55,
+        "category": "dentist",
+        "en": "Interdental brush",
+        "ru": "Межзубный ершик",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 56,
+        "category": "dentist",
+        "en": "Water flosser",
+        "ru": "Ирригатор",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 57,
+        "category": "dentist",
+        "en": "Mirror",
+        "ru": "Зеркало",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 58,
+        "category": "dentist",
+        "en": "Probe",
+        "ru": "Зонд",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 59,
+        "category": "dentist",
+        "en": "Drill",
+        "ru": "Бормашина / Сверло",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 60,
+        "category": "dentist",
+        "en": "Forceps",
+        "ru": "Щипцы",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 61,
+        "category": "dentist",
+        "en": "Syringe",
+        "ru": "Шприц",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 62,
+        "category": "dentist",
+        "en": "Suction",
+        "ru": "Отсос (слюноотсос)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 63,
+        "category": "dentist",
+        "en": "Bib",
+        "ru": "Слюнявчик / Нагрудник",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 64,
+        "category": "dentist",
+        "en": "Chair",
+        "ru": "Кресло",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 65,
+        "category": "dentist",
+        "en": "Light",
+        "ru": "Свет / Лампа",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 66,
+        "category": "dentist",
+        "en": "Scaler",
+        "ru": "Скалер",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 67,
+        "category": "dentist",
+        "en": "Curing light",
+        "ru": "Полимеризационная лампа",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 68,
+        "category": "dentist",
+        "en": "Tray",
+        "ru": "Лоток",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 69,
+        "category": "dentist",
+        "en": "Cotton roll",
+        "ru": "Ватный валик",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 70,
+        "category": "dentist",
+        "en": "Gauze",
+        "ru": "Марля / Бинт",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 71,
+        "category": "dentist",
+        "en": "Saliva ejector",
+        "ru": "Слюноотсос",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 72,
+        "category": "dentist",
+        "en": "Elevator",
+        "ru": "Элеватор (инструмент)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 73,
+        "category": "dentist",
+        "en": "Handpiece",
+        "ru": "Наконечник",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 74,
+        "category": "dentist",
+        "en": "Bur",
+        "ru": "Бор",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 75,
+        "category": "dentist",
+        "en": "Articulator",
+        "ru": "Артикулятор",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 76,
+        "category": "dentist",
+        "en": "Spatula",
+        "ru": "Шпатель",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 77,
+        "category": "dentist",
+        "en": "X-ray machine",
+        "ru": "Рентгеновский аппарат",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 78,
+        "category": "dentist",
+        "en": "Lead apron",
+        "ru": "Свинцовый фартук",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 79,
+        "category": "dentist",
+        "en": "Gloves",
+        "ru": "Перчатки",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 80,
+        "category": "dentist",
+        "en": "Mask",
+        "ru": "Маска",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 81,
+        "category": "dentist",
+        "en": "Goggles",
+        "ru": "Защитные очки",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 82,
+        "category": "dentist",
+        "en": "Sterilizer",
+        "ru": "Стерилизатор",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 83,
+        "category": "dentist",
+        "en": "Autoclave",
+        "ru": "Автоклав",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 84,
+        "category": "dentist",
+        "en": "Composite",
+        "ru": "Композит",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 85,
+        "category": "dentist",
+        "en": "Amalgam",
+        "ru": "Амальгама",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 86,
+        "category": "dentist",
+        "en": "Resin",
+        "ru": "Смола (полимерная)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 87,
+        "category": "dentist",
+        "en": "Porcelain",
+        "ru": "Фарфор",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 88,
+        "category": "dentist",
+        "en": "Ceramic",
+        "ru": "Керамика",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 89,
+        "category": "dentist",
+        "en": "Gold",
+        "ru": "Золото",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 90,
+        "category": "dentist",
+        "en": "Titanium",
+        "ru": "Титан",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 91,
+        "category": "dentist",
+        "en": "Acrylic",
+        "ru": "Акрил",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 92,
+        "category": "dentist",
+        "en": "Alginate",
+        "ru": "Альгинат",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 93,
+        "category": "dentist",
+        "en": "Plaster",
+        "ru": "Гипс",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 94,
+        "category": "dentist",
+        "en": "Cement",
+        "ru": "Цемент (стоматологический)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 95,
+        "category": "dentist",
+        "en": "Fluoride",
+        "ru": "Фтор",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 96,
+        "category": "dentist",
+        "en": "Anesthetic",
+        "ru": "Анестетик",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 97,
+        "category": "dentist",
+        "en": "Epinephrine",
+        "ru": "Эпинефрин (адреналин)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 98,
+        "category": "dentist",
+        "en": "Nitrous oxide",
+        "ru": "Закись азота (веселящий газ)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 99,
+        "category": "dentist",
+        "en": "Clinic",
+        "ru": "Клиника",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 100,
+        "category": "dentist",
+        "en": "Reception",
+        "ru": "Регистратура",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 101,
+        "category": "dentist",
+        "en": "Caries",
+        "ru": "Кариес",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 102,
+        "category": "dentist",
+        "en": "Cavity",
+        "ru": "Полость (кариозная)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 103,
+        "category": "dentist",
+        "en": "Plaque",
+        "ru": "Налет",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 104,
+        "category": "dentist",
+        "en": "Tartar",
+        "ru": "Зубной камень",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 105,
+        "category": "dentist",
+        "en": "Calculus",
+        "ru": "Зубной камень (мед. термин)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 106,
+        "category": "dentist",
+        "en": "Gingivitis",
+        "ru": "Гингивит",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 107,
+        "category": "dentist",
+        "en": "Periodontitis",
+        "ru": "Пародонтит",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 108,
+        "category": "dentist",
+        "en": "Toothache",
+        "ru": "Зубная боль",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 109,
+        "category": "dentist",
+        "en": "Sensitivity",
+        "ru": "Чувствительность",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 110,
+        "category": "dentist",
+        "en": "Swelling",
+        "ru": "Отек / Припухлость",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 111,
+        "category": "dentist",
+        "en": "Abscess",
+        "ru": "Абсцесс (нарыв)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 112,
+        "category": "dentist",
+        "en": "Infection",
+        "ru": "Инфекция",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 113,
+        "category": "dentist",
+        "en": "Bleeding",
+        "ru": "Кровотечение",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 114,
+        "category": "dentist",
+        "en": "Halitosis",
+        "ru": "Галитоз",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 115,
+        "category": "dentist",
+        "en": "Bad breath",
+        "ru": "Неприятный запах изо рта",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 116,
+        "category": "dentist",
+        "en": "Malocclusion",
+        "ru": "Неправильный прикус",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 117,
+        "category": "dentist",
+        "en": "Impacted tooth",
+        "ru": "Ретенированный (непрорезавшийся) зуб",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 118,
+        "category": "dentist",
+        "en": "Erosion",
+        "ru": "Эрозия",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 119,
+        "category": "dentist",
+        "en": "Abrasion",
+        "ru": "Стирание (абразия)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 120,
+        "category": "dentist",
+        "en": "Attrition",
+        "ru": "Истирание (физиологическое)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 121,
+        "category": "dentist",
+        "en": "Fracture",
+        "ru": "Перелом",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 122,
+        "category": "dentist",
+        "en": "Chip",
+        "ru": "Скол",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 123,
+        "category": "dentist",
+        "en": "Discoloration",
+        "ru": "Изменение цвета",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 124,
+        "category": "dentist",
+        "en": "Stain",
+        "ru": "Пятно",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 125,
+        "category": "dentist",
+        "en": "Inflammation",
+        "ru": "Воспаление",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 126,
+        "category": "dentist",
+        "en": "Pain",
+        "ru": "Боль",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 127,
+        "category": "dentist",
+        "en": "Numbness",
+        "ru": "Онемение",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 128,
+        "category": "dentist",
+        "en": "Cyst",
+        "ru": "Киста",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 129,
+        "category": "dentist",
+        "en": "Tumor",
+        "ru": "Опухоль",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 130,
+        "category": "dentist",
+        "en": "Ulcer",
+        "ru": "Язва",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 131,
+        "category": "dentist",
+        "en": "Cold sore",
+        "ru": "Герпес (на губе)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 132,
+        "category": "dentist",
+        "en": "Thrush",
+        "ru": "Молочница (кандидоз)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 133,
+        "category": "dentist",
+        "en": "Dry mouth",
+        "ru": "Сухость во рту",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 134,
+        "category": "dentist",
+        "en": "Bruxism",
+        "ru": "Бруксизм (скрежетание)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 135,
+        "category": "dentist",
+        "en": "Grinding",
+        "ru": "Скрежетание",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 136,
+        "category": "dentist",
+        "en": "Clenching",
+        "ru": "Сжимание (челюстей)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 137,
+        "category": "dentist",
+        "en": "Receding gums",
+        "ru": "Опущение десен (рецессия)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 138,
+        "category": "dentist",
+        "en": "Pocket",
+        "ru": "Карман (пародонтальный)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 139,
+        "category": "dentist",
+        "en": "Bone loss",
+        "ru": "Потеря костной ткани",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 140,
+        "category": "dentist",
+        "en": "Mobility",
+        "ru": "Подвижность",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 141,
+        "category": "dentist",
+        "en": "Pulpitis",
+        "ru": "Пульпит",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 142,
+        "category": "dentist",
+        "en": "Necrosis",
+        "ru": "Некроз",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 143,
+        "category": "dentist",
+        "en": "Overbite",
+        "ru": "Глубокий прикус",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 144,
+        "category": "dentist",
+        "en": "Underbite",
+        "ru": "Мезиальный прикус",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 145,
+        "category": "dentist",
+        "en": "Crossbite",
+        "ru": "Перекрестный прикус",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 146,
+        "category": "dentist",
+        "en": "Open bite",
+        "ru": "Открытый прикус",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 147,
+        "category": "dentist",
+        "en": "Crowding",
+        "ru": "Скученность",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 148,
+        "category": "dentist",
+        "en": "Spacing",
+        "ru": "Промежутки (между зубами)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 149,
+        "category": "dentist",
+        "en": "Diastema",
+        "ru": "Диастема (щель между передними зубами)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 150,
+        "category": "dentist",
+        "en": "Lesion",
+        "ru": "Поражение / Очаг",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 151,
+        "category": "dentist",
+        "en": "Check-up",
+        "ru": "Осмотр",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 152,
+        "category": "dentist",
+        "en": "Examination",
+        "ru": "Обследование",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 153,
+        "category": "dentist",
+        "en": "Cleaning",
+        "ru": "Чистка",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 154,
+        "category": "dentist",
+        "en": "Scaling",
+        "ru": "Снятие зубных отложений",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 155,
+        "category": "dentist",
+        "en": "Polishing",
+        "ru": "Полировка",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 156,
+        "category": "dentist",
+        "en": "Filling",
+        "ru": "Пломба / Пломбирование",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 157,
+        "category": "dentist",
+        "en": "Restoration",
+        "ru": "Реставрация",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 158,
+        "category": "dentist",
+        "en": "Extraction",
+        "ru": "Удаление",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 159,
+        "category": "dentist",
+        "en": "Surgery",
+        "ru": "Хирургия / Операция",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 160,
+        "category": "dentist",
+        "en": "Root canal treatment",
+        "ru": "Лечение корневых каналов",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 161,
+        "category": "dentist",
+        "en": "Implant",
+        "ru": "Имплантат",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 162,
+        "category": "dentist",
+        "en": "Crown",
+        "ru": "Коронка (протез)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 163,
+        "category": "dentist",
+        "en": "Bridge",
+        "ru": "Мост (мостовидный протез)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 164,
+        "category": "dentist",
+        "en": "Veneer",
+        "ru": "Винир",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 165,
+        "category": "dentist",
+        "en": "Inlay",
+        "ru": "Вкладка",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 166,
+        "category": "dentist",
+        "en": "Onlay",
+        "ru": "Накладка",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 167,
+        "category": "dentist",
+        "en": "Denture",
+        "ru": "Зубной протез (съемный)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 168,
+        "category": "dentist",
+        "en": "Partial denture",
+        "ru": "Частичный протез",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 169,
+        "category": "dentist",
+        "en": "Braces",
+        "ru": "Брекеты",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 170,
+        "category": "dentist",
+        "en": "Aligners",
+        "ru": "Элайнеры",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 171,
+        "category": "dentist",
+        "en": "Retainer",
+        "ru": "Ретейнер",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 172,
+        "category": "dentist",
+        "en": "Whitening",
+        "ru": "Отбеливание",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 173,
+        "category": "dentist",
+        "en": "Bleaching",
+        "ru": "Отбеливание (химическое)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 174,
+        "category": "dentist",
+        "en": "X-ray",
+        "ru": "Рентген",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 175,
+        "category": "dentist",
+        "en": "Radiograph",
+        "ru": "Радиограмма (снимок)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 176,
+        "category": "dentist",
+        "en": "Panoramic X-ray",
+        "ru": "Панорамный снимок (ОПТГ)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 177,
+        "category": "dentist",
+        "en": "CT scan",
+        "ru": "Компьютерная томография (КТ)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 178,
+        "category": "dentist",
+        "en": "Impression",
+        "ru": "Слепок / Оттиск",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 179,
+        "category": "dentist",
+        "en": "Injection",
+        "ru": "Укол / Инъекция",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 180,
+        "category": "dentist",
+        "en": "Anesthesia",
+        "ru": "Анестезия",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 181,
+        "category": "dentist",
+        "en": "Sedation",
+        "ru": "Седация",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 182,
+        "category": "dentist",
+        "en": "Suture",
+        "ru": "Шовный материал / Шов",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 183,
+        "category": "dentist",
+        "en": "Stitches",
+        "ru": "Швы",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 184,
+        "category": "dentist",
+        "en": "Biopsy",
+        "ru": "Биопсия",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 185,
+        "category": "dentist",
+        "en": "Sealant",
+        "ru": "Герметик (фиссурный)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 186,
+        "category": "dentist",
+        "en": "Fluoride varnish",
+        "ru": "Фторлак",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 187,
+        "category": "dentist",
+        "en": "Bone graft",
+        "ru": "Костный трансплантат",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 188,
+        "category": "dentist",
+        "en": "Sinus lift",
+        "ru": "Синус-лифтинг",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 189,
+        "category": "dentist",
+        "en": "Orthodontics",
+        "ru": "Ортодонтия",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 190,
+        "category": "dentist",
+        "en": "Periodontics",
+        "ru": "Пародонтология",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 191,
+        "category": "dentist",
+        "en": "Endodontics",
+        "ru": "Эндодонтия",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 192,
+        "category": "dentist",
+        "en": "Prosthodontics",
+        "ru": "Ортопедия (протезирование)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 193,
+        "category": "dentist",
+        "en": "Pedodontics",
+        "ru": "Детская стоматология",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 194,
+        "category": "dentist",
+        "en": "Oral surgery",
+        "ru": "Челюстно-лицевая хирургия",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 195,
+        "category": "dentist",
+        "en": "Hygienist",
+        "ru": "Гигиенист",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 196,
+        "category": "dentist",
+        "en": "Assistant",
+        "ru": "Ассистент",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 197,
+        "category": "dentist",
+        "en": "Technician",
+        "ru": "Зубной техник",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 198,
+        "category": "dentist",
+        "en": "Appointment",
+        "ru": "Прием (у врача)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 199,
+        "category": "dentist",
+        "en": "Consultation",
+        "ru": "Консультация",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 200,
+        "category": "dentist",
+        "en": "Prescription",
+        "ru": "Рецепт (от врача)",
+        "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
     }
 ]
