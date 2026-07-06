@@ -74212,5 +74212,5983 @@
         "en": "Prescription",
         "ru": "Рецепт (от врача)",
         "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400&q=80"
+    },
+    {
+        "id": 1,
+        "category": "basics",
+        "en": "I",
+        "ru": "Я",
+        "imageUrl": "https://placehold.co/400x300?text=I"
+    },
+    {
+        "id": 2,
+        "category": "basics",
+        "en": "You",
+        "ru": "Ты / Вы",
+        "imageUrl": "https://placehold.co/400x300?text=You"
+    },
+    {
+        "id": 3,
+        "category": "basics",
+        "en": "He",
+        "ru": "Он",
+        "imageUrl": "https://placehold.co/400x300?text=He"
+    },
+    {
+        "id": 4,
+        "category": "basics",
+        "en": "She",
+        "ru": "Она",
+        "imageUrl": "https://placehold.co/400x300?text=She"
+    },
+    {
+        "id": 5,
+        "category": "basics",
+        "en": "It",
+        "ru": "Оно / Это",
+        "imageUrl": "https://placehold.co/400x300?text=It"
+    },
+    {
+        "id": 6,
+        "category": "basics",
+        "en": "We",
+        "ru": "Мы",
+        "imageUrl": "https://placehold.co/400x300?text=We"
+    },
+    {
+        "id": 7,
+        "category": "basics",
+        "en": "They",
+        "ru": "Они",
+        "imageUrl": "https://placehold.co/400x300?text=They"
+    },
+    {
+        "id": 8,
+        "category": "basics",
+        "en": "Me",
+        "ru": "Мне / Меня",
+        "imageUrl": "https://placehold.co/400x300?text=Me"
+    },
+    {
+        "id": 9,
+        "category": "basics",
+        "en": "Him",
+        "ru": "Ему / Его",
+        "imageUrl": "https://placehold.co/400x300?text=Him"
+    },
+    {
+        "id": 10,
+        "category": "basics",
+        "en": "Her",
+        "ru": "Ей / Ее",
+        "imageUrl": "https://placehold.co/400x300?text=Her"
+    },
+    {
+        "id": 11,
+        "category": "basics",
+        "en": "Us",
+        "ru": "Нам / Нас",
+        "imageUrl": "https://placehold.co/400x300?text=Us"
+    },
+    {
+        "id": 12,
+        "category": "basics",
+        "en": "Them",
+        "ru": "Им / Их",
+        "imageUrl": "https://placehold.co/400x300?text=Them"
+    },
+    {
+        "id": 13,
+        "category": "basics",
+        "en": "My",
+        "ru": "Мой / Моя",
+        "imageUrl": "https://placehold.co/400x300?text=My"
+    },
+    {
+        "id": 14,
+        "category": "basics",
+        "en": "Your",
+        "ru": "Твой / Ваш",
+        "imageUrl": "https://placehold.co/400x300?text=Your"
+    },
+    {
+        "id": 15,
+        "category": "basics",
+        "en": "His",
+        "ru": "Его (чей?)",
+        "imageUrl": "https://placehold.co/400x300?text=His"
+    },
+    {
+        "id": 16,
+        "category": "basics",
+        "en": "Our",
+        "ru": "Наш",
+        "imageUrl": "https://placehold.co/400x300?text=Our"
+    },
+    {
+        "id": 17,
+        "category": "basics",
+        "en": "Their",
+        "ru": "Их (чей?)",
+        "imageUrl": "https://placehold.co/400x300?text=Their"
+    },
+    {
+        "id": 18,
+        "category": "basics",
+        "en": "This",
+        "ru": "Этот (близко)",
+        "imageUrl": "https://placehold.co/400x300?text=This"
+    },
+    {
+        "id": 19,
+        "category": "basics",
+        "en": "That",
+        "ru": "Тот (далеко)",
+        "imageUrl": "https://placehold.co/400x300?text=That"
+    },
+    {
+        "id": 20,
+        "category": "basics",
+        "en": "These",
+        "ru": "Эти (близко)",
+        "imageUrl": "https://placehold.co/400x300?text=These"
+    },
+    {
+        "id": 21,
+        "category": "basics",
+        "en": "Those",
+        "ru": "Те (далеко)",
+        "imageUrl": "https://placehold.co/400x300?text=Those"
+    },
+    {
+        "id": 22,
+        "category": "basics",
+        "en": "In",
+        "ru": "В (внутри)",
+        "imageUrl": "https://placehold.co/400x300?text=In"
+    },
+    {
+        "id": 23,
+        "category": "basics",
+        "en": "On",
+        "ru": "На (поверхности)",
+        "imageUrl": "https://placehold.co/400x300?text=On"
+    },
+    {
+        "id": 24,
+        "category": "basics",
+        "en": "At",
+        "ru": "У / В (конкретная точка)",
+        "imageUrl": "https://placehold.co/400x300?text=At"
+    },
+    {
+        "id": 25,
+        "category": "basics",
+        "en": "By",
+        "ru": "У / К / Около",
+        "imageUrl": "https://placehold.co/400x300?text=By"
+    },
+    {
+        "id": 26,
+        "category": "basics",
+        "en": "For",
+        "ru": "Для / За",
+        "imageUrl": "https://placehold.co/400x300?text=For"
+    },
+    {
+        "id": 27,
+        "category": "basics",
+        "en": "With",
+        "ru": "С (вместе)",
+        "imageUrl": "https://placehold.co/400x300?text=With"
+    },
+    {
+        "id": 28,
+        "category": "basics",
+        "en": "Without",
+        "ru": "Без",
+        "imageUrl": "https://placehold.co/400x300?text=Without"
+    },
+    {
+        "id": 29,
+        "category": "basics",
+        "en": "About",
+        "ru": "О / Около",
+        "imageUrl": "https://placehold.co/400x300?text=About"
+    },
+    {
+        "id": 30,
+        "category": "basics",
+        "en": "Against",
+        "ru": "Против",
+        "imageUrl": "https://placehold.co/400x300?text=Against"
+    },
+    {
+        "id": 31,
+        "category": "basics",
+        "en": "Between",
+        "ru": "Между",
+        "imageUrl": "https://placehold.co/400x300?text=Between"
+    },
+    {
+        "id": 32,
+        "category": "basics",
+        "en": "Into",
+        "ru": "В (движение внутрь)",
+        "imageUrl": "https://placehold.co/400x300?text=Into"
+    },
+    {
+        "id": 33,
+        "category": "basics",
+        "en": "Through",
+        "ru": "Через / Сквозь",
+        "imageUrl": "https://placehold.co/400x300?text=Through"
+    },
+    {
+        "id": 34,
+        "category": "basics",
+        "en": "During",
+        "ru": "В течение / Во время",
+        "imageUrl": "https://placehold.co/400x300?text=During"
+    },
+    {
+        "id": 35,
+        "category": "basics",
+        "en": "Before",
+        "ru": "До / Перед",
+        "imageUrl": "https://placehold.co/400x300?text=Before"
+    },
+    {
+        "id": 36,
+        "category": "basics",
+        "en": "After",
+        "ru": "После",
+        "imageUrl": "https://placehold.co/400x300?text=After"
+    },
+    {
+        "id": 37,
+        "category": "basics",
+        "en": "Above",
+        "ru": "Над",
+        "imageUrl": "https://placehold.co/400x300?text=Above"
+    },
+    {
+        "id": 38,
+        "category": "basics",
+        "en": "Below",
+        "ru": "Под / Ниже",
+        "imageUrl": "https://placehold.co/400x300?text=Below"
+    },
+    {
+        "id": 39,
+        "category": "basics",
+        "en": "To",
+        "ru": "К / В (направление)",
+        "imageUrl": "https://placehold.co/400x300?text=To"
+    },
+    {
+        "id": 40,
+        "category": "basics",
+        "en": "From",
+        "ru": "Из / От",
+        "imageUrl": "https://placehold.co/400x300?text=From"
+    },
+    {
+        "id": 41,
+        "category": "basics",
+        "en": "Up",
+        "ru": "Вверх",
+        "imageUrl": "https://placehold.co/400x300?text=Up"
+    },
+    {
+        "id": 42,
+        "category": "basics",
+        "en": "Down",
+        "ru": "Вниз",
+        "imageUrl": "https://placehold.co/400x300?text=Down"
+    },
+    {
+        "id": 43,
+        "category": "basics",
+        "en": "Over",
+        "ru": "Над / Поверх",
+        "imageUrl": "https://placehold.co/400x300?text=Over"
+    },
+    {
+        "id": 44,
+        "category": "basics",
+        "en": "Under",
+        "ru": "Под",
+        "imageUrl": "https://placehold.co/400x300?text=Under"
+    },
+    {
+        "id": 45,
+        "category": "basics",
+        "en": "Again",
+        "ru": "Снова / Опять",
+        "imageUrl": "https://placehold.co/400x300?text=Again"
+    },
+    {
+        "id": 46,
+        "category": "basics",
+        "en": "Then",
+        "ru": "Затем / Тогда",
+        "imageUrl": "https://placehold.co/400x300?text=Then"
+    },
+    {
+        "id": 47,
+        "category": "basics",
+        "en": "Here",
+        "ru": "Здесь",
+        "imageUrl": "https://placehold.co/400x300?text=Here"
+    },
+    {
+        "id": 48,
+        "category": "basics",
+        "en": "There",
+        "ru": "Там",
+        "imageUrl": "https://placehold.co/400x300?text=There"
+    },
+    {
+        "id": 49,
+        "category": "basics",
+        "en": "Now",
+        "ru": "Сейчас",
+        "imageUrl": "https://placehold.co/400x300?text=Now"
+    },
+    {
+        "id": 50,
+        "category": "basics",
+        "en": "Always",
+        "ru": "Всегда",
+        "imageUrl": "https://placehold.co/400x300?text=Always"
+    },
+    {
+        "id": 51,
+        "category": "basics",
+        "en": "Never",
+        "ru": "Никогда",
+        "imageUrl": "https://placehold.co/400x300?text=Never"
+    },
+    {
+        "id": 52,
+        "category": "basics",
+        "en": "Sometimes",
+        "ru": "Иногда",
+        "imageUrl": "https://placehold.co/400x300?text=Sometimes"
+    },
+    {
+        "id": 53,
+        "category": "basics",
+        "en": "Often",
+        "ru": "Часто",
+        "imageUrl": "https://placehold.co/400x300?text=Often"
+    },
+    {
+        "id": 54,
+        "category": "basics",
+        "en": "When",
+        "ru": "Когда",
+        "imageUrl": "https://placehold.co/400x300?text=When"
+    },
+    {
+        "id": 55,
+        "category": "basics",
+        "en": "Where",
+        "ru": "Где / Куда",
+        "imageUrl": "https://placehold.co/400x300?text=Where"
+    },
+    {
+        "id": 56,
+        "category": "basics",
+        "en": "Why",
+        "ru": "Почему / Зачем",
+        "imageUrl": "https://placehold.co/400x300?text=Why"
+    },
+    {
+        "id": 57,
+        "category": "basics",
+        "en": "How",
+        "ru": "Как",
+        "imageUrl": "https://placehold.co/400x300?text=How"
+    },
+    {
+        "id": 58,
+        "category": "basics",
+        "en": "Who",
+        "ru": "Кто",
+        "imageUrl": "https://placehold.co/400x300?text=Who"
+    },
+    {
+        "id": 59,
+        "category": "basics",
+        "en": "What",
+        "ru": "Что / Какой",
+        "imageUrl": "https://placehold.co/400x300?text=What"
+    },
+    {
+        "id": 60,
+        "category": "basics",
+        "en": "Which",
+        "ru": "Который (выбор)",
+        "imageUrl": "https://placehold.co/400x300?text=Which"
+    },
+    {
+        "id": 61,
+        "category": "basics",
+        "en": "All",
+        "ru": "Все / Всё",
+        "imageUrl": "https://placehold.co/400x300?text=All"
+    },
+    {
+        "id": 62,
+        "category": "basics",
+        "en": "Any",
+        "ru": "Любой / Какой-нибудь",
+        "imageUrl": "https://placehold.co/400x300?text=Any"
+    },
+    {
+        "id": 63,
+        "category": "basics",
+        "en": "Some",
+        "ru": "Несколько / Немного",
+        "imageUrl": "https://placehold.co/400x300?text=Some"
+    },
+    {
+        "id": 64,
+        "category": "basics",
+        "en": "Many",
+        "ru": "Много (исчисляемое)",
+        "imageUrl": "https://placehold.co/400x300?text=Many"
+    },
+    {
+        "id": 65,
+        "category": "basics",
+        "en": "Much",
+        "ru": "Много (неисчисляемое)",
+        "imageUrl": "https://placehold.co/400x300?text=Much"
+    },
+    {
+        "id": 66,
+        "category": "basics",
+        "en": "Few",
+        "ru": "Мало (исчисляемое)",
+        "imageUrl": "https://placehold.co/400x300?text=Few"
+    },
+    {
+        "id": 67,
+        "category": "basics",
+        "en": "Little",
+        "ru": "Мало (неисчисляемое) / Маленький",
+        "imageUrl": "https://placehold.co/400x300?text=Little"
+    },
+    {
+        "id": 68,
+        "category": "basics",
+        "en": "Other",
+        "ru": "Другой",
+        "imageUrl": "https://placehold.co/400x300?text=Other"
+    },
+    {
+        "id": 69,
+        "category": "basics",
+        "en": "Same",
+        "ru": "Тот же самый",
+        "imageUrl": "https://placehold.co/400x300?text=Same"
+    },
+    {
+        "id": 70,
+        "category": "basics",
+        "en": "Such",
+        "ru": "Такой",
+        "imageUrl": "https://placehold.co/400x300?text=Such"
+    },
+    {
+        "id": 71,
+        "category": "basics",
+        "en": "And",
+        "ru": "И",
+        "imageUrl": "https://placehold.co/400x300?text=And"
+    },
+    {
+        "id": 72,
+        "category": "basics",
+        "en": "But",
+        "ru": "Но",
+        "imageUrl": "https://placehold.co/400x300?text=But"
+    },
+    {
+        "id": 73,
+        "category": "basics",
+        "en": "Or",
+        "ru": "Или",
+        "imageUrl": "https://placehold.co/400x300?text=Or"
+    },
+    {
+        "id": 74,
+        "category": "basics",
+        "en": "Because",
+        "ru": "Потому что",
+        "imageUrl": "https://placehold.co/400x300?text=Because"
+    },
+    {
+        "id": 75,
+        "category": "basics",
+        "en": "If",
+        "ru": "Если",
+        "imageUrl": "https://placehold.co/400x300?text=If"
+    },
+    {
+        "id": 76,
+        "category": "basics",
+        "en": "So",
+        "ru": "Итак / Поэтому",
+        "imageUrl": "https://placehold.co/400x300?text=So"
+    },
+    {
+        "id": 77,
+        "category": "basics",
+        "en": "As",
+        "ru": "Как / В качестве",
+        "imageUrl": "https://placehold.co/400x300?text=As"
+    },
+    {
+        "id": 78,
+        "category": "basics",
+        "en": "Until",
+        "ru": "До тех пор пока",
+        "imageUrl": "https://placehold.co/400x300?text=Until"
+    },
+    {
+        "id": 79,
+        "category": "basics",
+        "en": "While",
+        "ru": "Пока (в то время как)",
+        "imageUrl": "https://placehold.co/400x300?text=While"
+    },
+    {
+        "id": 80,
+        "category": "basics",
+        "en": "Than",
+        "ru": "Чем (при сравнении)",
+        "imageUrl": "https://placehold.co/400x300?text=Than"
+    },
+    {
+        "id": 81,
+        "category": "basics",
+        "en": "Be",
+        "ru": "Быть",
+        "imageUrl": "https://placehold.co/400x300?text=Be"
+    },
+    {
+        "id": 82,
+        "category": "basics",
+        "en": "Have",
+        "ru": "Иметь",
+        "imageUrl": "https://placehold.co/400x300?text=Have"
+    },
+    {
+        "id": 83,
+        "category": "basics",
+        "en": "Do",
+        "ru": "Делать",
+        "imageUrl": "https://placehold.co/400x300?text=Do"
+    },
+    {
+        "id": 84,
+        "category": "basics",
+        "en": "Say",
+        "ru": "Говорить / Сказать",
+        "imageUrl": "https://placehold.co/400x300?text=Say"
+    },
+    {
+        "id": 85,
+        "category": "basics",
+        "en": "Go",
+        "ru": "Идти / Ехать",
+        "imageUrl": "https://placehold.co/400x300?text=Go"
+    },
+    {
+        "id": 86,
+        "category": "basics",
+        "en": "Get",
+        "ru": "Получать / Становиться",
+        "imageUrl": "https://placehold.co/400x300?text=Get"
+    },
+    {
+        "id": 87,
+        "category": "basics",
+        "en": "Make",
+        "ru": "Делать (создавать)",
+        "imageUrl": "https://placehold.co/400x300?text=Make"
+    },
+    {
+        "id": 88,
+        "category": "basics",
+        "en": "Know",
+        "ru": "Знать",
+        "imageUrl": "https://placehold.co/400x300?text=Know"
+    },
+    {
+        "id": 89,
+        "category": "basics",
+        "en": "Think",
+        "ru": "Думать",
+        "imageUrl": "https://placehold.co/400x300?text=Think"
+    },
+    {
+        "id": 90,
+        "category": "basics",
+        "en": "Take",
+        "ru": "Брать",
+        "imageUrl": "https://placehold.co/400x300?text=Take"
+    },
+    {
+        "id": 91,
+        "category": "basics",
+        "en": "See",
+        "ru": "Видеть",
+        "imageUrl": "https://placehold.co/400x300?text=See"
+    },
+    {
+        "id": 92,
+        "category": "basics",
+        "en": "Come",
+        "ru": "Приходить",
+        "imageUrl": "https://placehold.co/400x300?text=Come"
+    },
+    {
+        "id": 93,
+        "category": "basics",
+        "en": "Want",
+        "ru": "Хотеть",
+        "imageUrl": "https://placehold.co/400x300?text=Want"
+    },
+    {
+        "id": 94,
+        "category": "basics",
+        "en": "Look",
+        "ru": "Смотреть",
+        "imageUrl": "https://placehold.co/400x300?text=Look"
+    },
+    {
+        "id": 95,
+        "category": "basics",
+        "en": "Use",
+        "ru": "Использовать",
+        "imageUrl": "https://placehold.co/400x300?text=Use"
+    },
+    {
+        "id": 96,
+        "category": "basics",
+        "en": "Find",
+        "ru": "Находить",
+        "imageUrl": "https://placehold.co/400x300?text=Find"
+    },
+    {
+        "id": 97,
+        "category": "basics",
+        "en": "Give",
+        "ru": "Давать",
+        "imageUrl": "https://placehold.co/400x300?text=Give"
+    },
+    {
+        "id": 98,
+        "category": "basics",
+        "en": "Tell",
+        "ru": "Рассказывать",
+        "imageUrl": "https://placehold.co/400x300?text=Tell"
+    },
+    {
+        "id": 99,
+        "category": "basics",
+        "en": "Work",
+        "ru": "Работать",
+        "imageUrl": "https://placehold.co/400x300?text=Work"
+    },
+    {
+        "id": 100,
+        "category": "basics",
+        "en": "Call",
+        "ru": "Звонить / Называть",
+        "imageUrl": "https://placehold.co/400x300?text=Call"
+    },
+    {
+        "id": 101,
+        "category": "basics",
+        "en": "Try",
+        "ru": "Пробовать / Пытаться",
+        "imageUrl": "https://placehold.co/400x300?text=Try"
+    },
+    {
+        "id": 102,
+        "category": "basics",
+        "en": "Ask",
+        "ru": "Спрашивать / Просить",
+        "imageUrl": "https://placehold.co/400x300?text=Ask"
+    },
+    {
+        "id": 103,
+        "category": "basics",
+        "en": "Need",
+        "ru": "Нуждаться",
+        "imageUrl": "https://placehold.co/400x300?text=Need"
+    },
+    {
+        "id": 104,
+        "category": "basics",
+        "en": "Feel",
+        "ru": "Чувствовать",
+        "imageUrl": "https://placehold.co/400x300?text=Feel"
+    },
+    {
+        "id": 105,
+        "category": "basics",
+        "en": "Become",
+        "ru": "Становиться",
+        "imageUrl": "https://placehold.co/400x300?text=Become"
+    },
+    {
+        "id": 106,
+        "category": "basics",
+        "en": "Leave",
+        "ru": "Покидать / Оставлять",
+        "imageUrl": "https://placehold.co/400x300?text=Leave"
+    },
+    {
+        "id": 107,
+        "category": "basics",
+        "en": "Put",
+        "ru": "Класть / Ставить",
+        "imageUrl": "https://placehold.co/400x300?text=Put"
+    },
+    {
+        "id": 108,
+        "category": "basics",
+        "en": "Mean",
+        "ru": "Значить / Иметь в виду",
+        "imageUrl": "https://placehold.co/400x300?text=Mean"
+    },
+    {
+        "id": 109,
+        "category": "basics",
+        "en": "Keep",
+        "ru": "Держать / Хранить",
+        "imageUrl": "https://placehold.co/400x300?text=Keep"
+    },
+    {
+        "id": 110,
+        "category": "basics",
+        "en": "Let",
+        "ru": "Позволять",
+        "imageUrl": "https://placehold.co/400x300?text=Let"
+    },
+    {
+        "id": 111,
+        "category": "basics",
+        "en": "Begin",
+        "ru": "Начинать",
+        "imageUrl": "https://placehold.co/400x300?text=Begin"
+    },
+    {
+        "id": 112,
+        "category": "basics",
+        "en": "Seem",
+        "ru": "Казаться",
+        "imageUrl": "https://placehold.co/400x300?text=Seem"
+    },
+    {
+        "id": 113,
+        "category": "basics",
+        "en": "Help",
+        "ru": "Помогать",
+        "imageUrl": "https://placehold.co/400x300?text=Help"
+    },
+    {
+        "id": 114,
+        "category": "basics",
+        "en": "Talk",
+        "ru": "Разговаривать",
+        "imageUrl": "https://placehold.co/400x300?text=Talk"
+    },
+    {
+        "id": 115,
+        "category": "basics",
+        "en": "Turn",
+        "ru": "Поворачивать(ся)",
+        "imageUrl": "https://placehold.co/400x300?text=Turn"
+    },
+    {
+        "id": 116,
+        "category": "basics",
+        "en": "Start",
+        "ru": "Начинать",
+        "imageUrl": "https://placehold.co/400x300?text=Start"
+    },
+    {
+        "id": 117,
+        "category": "basics",
+        "en": "Show",
+        "ru": "Показывать",
+        "imageUrl": "https://placehold.co/400x300?text=Show"
+    },
+    {
+        "id": 118,
+        "category": "basics",
+        "en": "Hear",
+        "ru": "Слышать",
+        "imageUrl": "https://placehold.co/400x300?text=Hear"
+    },
+    {
+        "id": 119,
+        "category": "basics",
+        "en": "Play",
+        "ru": "Играть",
+        "imageUrl": "https://placehold.co/400x300?text=Play"
+    },
+    {
+        "id": 120,
+        "category": "basics",
+        "en": "Run",
+        "ru": "Бежать",
+        "imageUrl": "https://placehold.co/400x300?text=Run"
+    },
+    {
+        "id": 121,
+        "category": "basics",
+        "en": "Move",
+        "ru": "Двигаться",
+        "imageUrl": "https://placehold.co/400x300?text=Move"
+    },
+    {
+        "id": 122,
+        "category": "basics",
+        "en": "Like",
+        "ru": "Нравиться",
+        "imageUrl": "https://placehold.co/400x300?text=Like"
+    },
+    {
+        "id": 123,
+        "category": "basics",
+        "en": "Live",
+        "ru": "Жить",
+        "imageUrl": "https://placehold.co/400x300?text=Live"
+    },
+    {
+        "id": 124,
+        "category": "basics",
+        "en": "Believe",
+        "ru": "Верить",
+        "imageUrl": "https://placehold.co/400x300?text=Believe"
+    },
+    {
+        "id": 125,
+        "category": "basics",
+        "en": "Hold",
+        "ru": "Держать",
+        "imageUrl": "https://placehold.co/400x300?text=Hold"
+    },
+    {
+        "id": 126,
+        "category": "basics",
+        "en": "Bring",
+        "ru": "Приносить",
+        "imageUrl": "https://placehold.co/400x300?text=Bring"
+    },
+    {
+        "id": 127,
+        "category": "basics",
+        "en": "Happen",
+        "ru": "Случаться",
+        "imageUrl": "https://placehold.co/400x300?text=Happen"
+    },
+    {
+        "id": 128,
+        "category": "basics",
+        "en": "Write",
+        "ru": "Писать",
+        "imageUrl": "https://placehold.co/400x300?text=Write"
+    },
+    {
+        "id": 129,
+        "category": "basics",
+        "en": "Provide",
+        "ru": "Обеспечивать",
+        "imageUrl": "https://placehold.co/400x300?text=Provide"
+    },
+    {
+        "id": 130,
+        "category": "basics",
+        "en": "Sit",
+        "ru": "Сидеть",
+        "imageUrl": "https://placehold.co/400x300?text=Sit"
+    },
+    {
+        "id": 131,
+        "category": "basics",
+        "en": "Stand",
+        "ru": "Стоять",
+        "imageUrl": "https://placehold.co/400x300?text=Stand"
+    },
+    {
+        "id": 132,
+        "category": "basics",
+        "en": "Lose",
+        "ru": "Терять",
+        "imageUrl": "https://placehold.co/400x300?text=Lose"
+    },
+    {
+        "id": 133,
+        "category": "basics",
+        "en": "Pay",
+        "ru": "Платить",
+        "imageUrl": "https://placehold.co/400x300?text=Pay"
+    },
+    {
+        "id": 134,
+        "category": "basics",
+        "en": "Meet",
+        "ru": "Встречать",
+        "imageUrl": "https://placehold.co/400x300?text=Meet"
+    },
+    {
+        "id": 135,
+        "category": "basics",
+        "en": "Include",
+        "ru": "Включать (в себя)",
+        "imageUrl": "https://placehold.co/400x300?text=Include"
+    },
+    {
+        "id": 136,
+        "category": "basics",
+        "en": "Continue",
+        "ru": "Продолжать",
+        "imageUrl": "https://placehold.co/400x300?text=Continue"
+    },
+    {
+        "id": 137,
+        "category": "basics",
+        "en": "Set",
+        "ru": "Устанавливать",
+        "imageUrl": "https://placehold.co/400x300?text=Set"
+    },
+    {
+        "id": 138,
+        "category": "basics",
+        "en": "Learn",
+        "ru": "Учить / Изучать",
+        "imageUrl": "https://placehold.co/400x300?text=Learn"
+    },
+    {
+        "id": 139,
+        "category": "basics",
+        "en": "Change",
+        "ru": "Менять",
+        "imageUrl": "https://placehold.co/400x300?text=Change"
+    },
+    {
+        "id": 140,
+        "category": "basics",
+        "en": "Lead",
+        "ru": "Вести",
+        "imageUrl": "https://placehold.co/400x300?text=Lead"
+    },
+    {
+        "id": 141,
+        "category": "basics",
+        "en": "Understand",
+        "ru": "Понимать",
+        "imageUrl": "https://placehold.co/400x300?text=Understand"
+    },
+    {
+        "id": 142,
+        "category": "basics",
+        "en": "Watch",
+        "ru": "Смотреть (наблюдать)",
+        "imageUrl": "https://placehold.co/400x300?text=Watch"
+    },
+    {
+        "id": 143,
+        "category": "basics",
+        "en": "Follow",
+        "ru": "Следовать",
+        "imageUrl": "https://placehold.co/400x300?text=Follow"
+    },
+    {
+        "id": 144,
+        "category": "basics",
+        "en": "Stop",
+        "ru": "Останавливать(ся)",
+        "imageUrl": "https://placehold.co/400x300?text=Stop"
+    },
+    {
+        "id": 145,
+        "category": "basics",
+        "en": "Create",
+        "ru": "Создавать",
+        "imageUrl": "https://placehold.co/400x300?text=Create"
+    },
+    {
+        "id": 146,
+        "category": "basics",
+        "en": "Speak",
+        "ru": "Говорить",
+        "imageUrl": "https://placehold.co/400x300?text=Speak"
+    },
+    {
+        "id": 147,
+        "category": "basics",
+        "en": "Read",
+        "ru": "Читать",
+        "imageUrl": "https://placehold.co/400x300?text=Read"
+    },
+    {
+        "id": 148,
+        "category": "basics",
+        "en": "Allow",
+        "ru": "Разрешать",
+        "imageUrl": "https://placehold.co/400x300?text=Allow"
+    },
+    {
+        "id": 149,
+        "category": "basics",
+        "en": "Add",
+        "ru": "Добавлять",
+        "imageUrl": "https://placehold.co/400x300?text=Add"
+    },
+    {
+        "id": 150,
+        "category": "basics",
+        "en": "Spend",
+        "ru": "Тратить",
+        "imageUrl": "https://placehold.co/400x300?text=Spend"
+    },
+    {
+        "id": 151,
+        "category": "basics",
+        "en": "Time",
+        "ru": "Время",
+        "imageUrl": "https://placehold.co/400x300?text=Time"
+    },
+    {
+        "id": 152,
+        "category": "basics",
+        "en": "Year",
+        "ru": "Год",
+        "imageUrl": "https://placehold.co/400x300?text=Year"
+    },
+    {
+        "id": 153,
+        "category": "basics",
+        "en": "People",
+        "ru": "Люди",
+        "imageUrl": "https://placehold.co/400x300?text=People"
+    },
+    {
+        "id": 154,
+        "category": "basics",
+        "en": "Way",
+        "ru": "Путь / Способ",
+        "imageUrl": "https://placehold.co/400x300?text=Way"
+    },
+    {
+        "id": 155,
+        "category": "basics",
+        "en": "Day",
+        "ru": "День",
+        "imageUrl": "https://placehold.co/400x300?text=Day"
+    },
+    {
+        "id": 156,
+        "category": "basics",
+        "en": "Man",
+        "ru": "Мужчина / Человек",
+        "imageUrl": "https://placehold.co/400x300?text=Man"
+    },
+    {
+        "id": 157,
+        "category": "basics",
+        "en": "Thing",
+        "ru": "Вещь",
+        "imageUrl": "https://placehold.co/400x300?text=Thing"
+    },
+    {
+        "id": 158,
+        "category": "basics",
+        "en": "Woman",
+        "ru": "Женщина",
+        "imageUrl": "https://placehold.co/400x300?text=Woman"
+    },
+    {
+        "id": 159,
+        "category": "basics",
+        "en": "Life",
+        "ru": "Жизнь",
+        "imageUrl": "https://placehold.co/400x300?text=Life"
+    },
+    {
+        "id": 160,
+        "category": "basics",
+        "en": "Child",
+        "ru": "Ребенок",
+        "imageUrl": "https://placehold.co/400x300?text=Child"
+    },
+    {
+        "id": 161,
+        "category": "basics",
+        "en": "World",
+        "ru": "Мир",
+        "imageUrl": "https://placehold.co/400x300?text=World"
+    },
+    {
+        "id": 162,
+        "category": "basics",
+        "en": "School",
+        "ru": "Школа",
+        "imageUrl": "https://placehold.co/400x300?text=School"
+    },
+    {
+        "id": 163,
+        "category": "basics",
+        "en": "State",
+        "ru": "Штат / Государство / Состояние",
+        "imageUrl": "https://placehold.co/400x300?text=State"
+    },
+    {
+        "id": 164,
+        "category": "basics",
+        "en": "Family",
+        "ru": "Семья",
+        "imageUrl": "https://placehold.co/400x300?text=Family"
+    },
+    {
+        "id": 165,
+        "category": "basics",
+        "en": "Student",
+        "ru": "Студент / Ученик",
+        "imageUrl": "https://placehold.co/400x300?text=Student"
+    },
+    {
+        "id": 166,
+        "category": "basics",
+        "en": "Group",
+        "ru": "Группа",
+        "imageUrl": "https://placehold.co/400x300?text=Group"
+    },
+    {
+        "id": 167,
+        "category": "basics",
+        "en": "Country",
+        "ru": "Страна",
+        "imageUrl": "https://placehold.co/400x300?text=Country"
+    },
+    {
+        "id": 168,
+        "category": "basics",
+        "en": "Problem",
+        "ru": "Проблема",
+        "imageUrl": "https://placehold.co/400x300?text=Problem"
+    },
+    {
+        "id": 169,
+        "category": "basics",
+        "en": "Hand",
+        "ru": "Рука",
+        "imageUrl": "https://placehold.co/400x300?text=Hand"
+    },
+    {
+        "id": 170,
+        "category": "basics",
+        "en": "Part",
+        "ru": "Часть",
+        "imageUrl": "https://placehold.co/400x300?text=Part"
+    },
+    {
+        "id": 171,
+        "category": "basics",
+        "en": "Place",
+        "ru": "Место",
+        "imageUrl": "https://placehold.co/400x300?text=Place"
+    },
+    {
+        "id": 172,
+        "category": "basics",
+        "en": "Case",
+        "ru": "Случай / Дело",
+        "imageUrl": "https://placehold.co/400x300?text=Case"
+    },
+    {
+        "id": 173,
+        "category": "basics",
+        "en": "Week",
+        "ru": "Неделя",
+        "imageUrl": "https://placehold.co/400x300?text=Week"
+    },
+    {
+        "id": 174,
+        "category": "basics",
+        "en": "Company",
+        "ru": "Компания",
+        "imageUrl": "https://placehold.co/400x300?text=Company"
+    },
+    {
+        "id": 175,
+        "category": "basics",
+        "en": "System",
+        "ru": "Система",
+        "imageUrl": "https://placehold.co/400x300?text=System"
+    },
+    {
+        "id": 176,
+        "category": "basics",
+        "en": "Program",
+        "ru": "Программа",
+        "imageUrl": "https://placehold.co/400x300?text=Program"
+    },
+    {
+        "id": 177,
+        "category": "basics",
+        "en": "Question",
+        "ru": "Вопрос",
+        "imageUrl": "https://placehold.co/400x300?text=Question"
+    },
+    {
+        "id": 178,
+        "category": "basics",
+        "en": "Work",
+        "ru": "Работа",
+        "imageUrl": "https://placehold.co/400x300?text=Work"
+    },
+    {
+        "id": 179,
+        "category": "basics",
+        "en": "Government",
+        "ru": "Правительство",
+        "imageUrl": "https://placehold.co/400x300?text=Government"
+    },
+    {
+        "id": 180,
+        "category": "basics",
+        "en": "Number",
+        "ru": "Число / Номер",
+        "imageUrl": "https://placehold.co/400x300?text=Number"
+    },
+    {
+        "id": 181,
+        "category": "basics",
+        "en": "Night",
+        "ru": "Ночь",
+        "imageUrl": "https://placehold.co/400x300?text=Night"
+    },
+    {
+        "id": 182,
+        "category": "basics",
+        "en": "Point",
+        "ru": "Точка / Суть",
+        "imageUrl": "https://placehold.co/400x300?text=Point"
+    },
+    {
+        "id": 183,
+        "category": "basics",
+        "en": "Home",
+        "ru": "Дом",
+        "imageUrl": "https://placehold.co/400x300?text=Home"
+    },
+    {
+        "id": 184,
+        "category": "basics",
+        "en": "Water",
+        "ru": "Вода",
+        "imageUrl": "https://placehold.co/400x300?text=Water"
+    },
+    {
+        "id": 185,
+        "category": "basics",
+        "en": "Room",
+        "ru": "Комната",
+        "imageUrl": "https://placehold.co/400x300?text=Room"
+    },
+    {
+        "id": 186,
+        "category": "basics",
+        "en": "Mother",
+        "ru": "Мать",
+        "imageUrl": "https://placehold.co/400x300?text=Mother"
+    },
+    {
+        "id": 187,
+        "category": "basics",
+        "en": "Area",
+        "ru": "Площадь / Область",
+        "imageUrl": "https://placehold.co/400x300?text=Area"
+    },
+    {
+        "id": 188,
+        "category": "basics",
+        "en": "Money",
+        "ru": "Деньги",
+        "imageUrl": "https://placehold.co/400x300?text=Money"
+    },
+    {
+        "id": 189,
+        "category": "basics",
+        "en": "Story",
+        "ru": "История / Рассказ",
+        "imageUrl": "https://placehold.co/400x300?text=Story"
+    },
+    {
+        "id": 190,
+        "category": "basics",
+        "en": "Fact",
+        "ru": "Факт",
+        "imageUrl": "https://placehold.co/400x300?text=Fact"
+    },
+    {
+        "id": 191,
+        "category": "basics",
+        "en": "Month",
+        "ru": "Месяц",
+        "imageUrl": "https://placehold.co/400x300?text=Month"
+    },
+    {
+        "id": 192,
+        "category": "basics",
+        "en": "Lot",
+        "ru": "Многое / Жребий",
+        "imageUrl": "https://placehold.co/400x300?text=Lot"
+    },
+    {
+        "id": 193,
+        "category": "basics",
+        "en": "Right",
+        "ru": "Право (существительное)",
+        "imageUrl": "https://placehold.co/400x300?text=Right"
+    },
+    {
+        "id": 194,
+        "category": "basics",
+        "en": "Study",
+        "ru": "Исследование / Учеба",
+        "imageUrl": "https://placehold.co/400x300?text=Study"
+    },
+    {
+        "id": 195,
+        "category": "basics",
+        "en": "Book",
+        "ru": "Книга",
+        "imageUrl": "https://placehold.co/400x300?text=Book"
+    },
+    {
+        "id": 196,
+        "category": "basics",
+        "en": "Eye",
+        "ru": "Глаз",
+        "imageUrl": "https://placehold.co/400x300?text=Eye"
+    },
+    {
+        "id": 197,
+        "category": "basics",
+        "en": "Job",
+        "ru": "Работа / Профессия",
+        "imageUrl": "https://placehold.co/400x300?text=Job"
+    },
+    {
+        "id": 198,
+        "category": "basics",
+        "en": "Word",
+        "ru": "Слово",
+        "imageUrl": "https://placehold.co/400x300?text=Word"
+    },
+    {
+        "id": 199,
+        "category": "basics",
+        "en": "Business",
+        "ru": "Бизнес / Дело",
+        "imageUrl": "https://placehold.co/400x300?text=Business"
+    },
+    {
+        "id": 200,
+        "category": "basics",
+        "en": "Issue",
+        "ru": "Проблема / Вопрос",
+        "imageUrl": "https://placehold.co/400x300?text=Issue"
+    },
+    {
+        "id": 201,
+        "category": "basics",
+        "en": "Side",
+        "ru": "Сторона",
+        "imageUrl": "https://placehold.co/400x300?text=Side"
+    },
+    {
+        "id": 202,
+        "category": "basics",
+        "en": "Kind",
+        "ru": "Вид / Тип",
+        "imageUrl": "https://placehold.co/400x300?text=Kind"
+    },
+    {
+        "id": 203,
+        "category": "basics",
+        "en": "Head",
+        "ru": "Голова / Руководитель",
+        "imageUrl": "https://placehold.co/400x300?text=Head"
+    },
+    {
+        "id": 204,
+        "category": "basics",
+        "en": "House",
+        "ru": "Дом (здание)",
+        "imageUrl": "https://placehold.co/400x300?text=House"
+    },
+    {
+        "id": 205,
+        "category": "basics",
+        "en": "Service",
+        "ru": "Служба / Услуга",
+        "imageUrl": "https://placehold.co/400x300?text=Service"
+    },
+    {
+        "id": 206,
+        "category": "basics",
+        "en": "Friend",
+        "ru": "Друг",
+        "imageUrl": "https://placehold.co/400x300?text=Friend"
+    },
+    {
+        "id": 207,
+        "category": "basics",
+        "en": "Father",
+        "ru": "Отец",
+        "imageUrl": "https://placehold.co/400x300?text=Father"
+    },
+    {
+        "id": 208,
+        "category": "basics",
+        "en": "Power",
+        "ru": "Сила / Власть",
+        "imageUrl": "https://placehold.co/400x300?text=Power"
+    },
+    {
+        "id": 209,
+        "category": "basics",
+        "en": "Hour",
+        "ru": "Час",
+        "imageUrl": "https://placehold.co/400x300?text=Hour"
+    },
+    {
+        "id": 210,
+        "category": "basics",
+        "en": "Game",
+        "ru": "Игра",
+        "imageUrl": "https://placehold.co/400x300?text=Game"
+    },
+    {
+        "id": 211,
+        "category": "basics",
+        "en": "Line",
+        "ru": "Линия / Очередь",
+        "imageUrl": "https://placehold.co/400x300?text=Line"
+    },
+    {
+        "id": 212,
+        "category": "basics",
+        "en": "End",
+        "ru": "Конец",
+        "imageUrl": "https://placehold.co/400x300?text=End"
+    },
+    {
+        "id": 213,
+        "category": "basics",
+        "en": "Member",
+        "ru": "Участник / Член",
+        "imageUrl": "https://placehold.co/400x300?text=Member"
+    },
+    {
+        "id": 214,
+        "category": "basics",
+        "en": "Law",
+        "ru": "Закон",
+        "imageUrl": "https://placehold.co/400x300?text=Law"
+    },
+    {
+        "id": 215,
+        "category": "basics",
+        "en": "Car",
+        "ru": "Машина",
+        "imageUrl": "https://placehold.co/400x300?text=Car"
+    },
+    {
+        "id": 216,
+        "category": "basics",
+        "en": "City",
+        "ru": "Город",
+        "imageUrl": "https://placehold.co/400x300?text=City"
+    },
+    {
+        "id": 217,
+        "category": "basics",
+        "en": "Name",
+        "ru": "Имя",
+        "imageUrl": "https://placehold.co/400x300?text=Name"
+    },
+    {
+        "id": 218,
+        "category": "basics",
+        "en": "Team",
+        "ru": "Команда",
+        "imageUrl": "https://placehold.co/400x300?text=Team"
+    },
+    {
+        "id": 219,
+        "category": "basics",
+        "en": "Minute",
+        "ru": "Минута",
+        "imageUrl": "https://placehold.co/400x300?text=Minute"
+    },
+    {
+        "id": 220,
+        "category": "basics",
+        "en": "Idea",
+        "ru": "Идея",
+        "imageUrl": "https://placehold.co/400x300?text=Idea"
+    },
+    {
+        "id": 221,
+        "category": "basics",
+        "en": "Good",
+        "ru": "Хороший",
+        "imageUrl": "https://placehold.co/400x300?text=Good"
+    },
+    {
+        "id": 222,
+        "category": "basics",
+        "en": "New",
+        "ru": "Новый",
+        "imageUrl": "https://placehold.co/400x300?text=New"
+    },
+    {
+        "id": 223,
+        "category": "basics",
+        "en": "First",
+        "ru": "Первый",
+        "imageUrl": "https://placehold.co/400x300?text=First"
+    },
+    {
+        "id": 224,
+        "category": "basics",
+        "en": "Last",
+        "ru": "Последний",
+        "imageUrl": "https://placehold.co/400x300?text=Last"
+    },
+    {
+        "id": 225,
+        "category": "basics",
+        "en": "Long",
+        "ru": "Длинный / Долгий",
+        "imageUrl": "https://placehold.co/400x300?text=Long"
+    },
+    {
+        "id": 226,
+        "category": "basics",
+        "en": "Great",
+        "ru": "Великий / Отличный",
+        "imageUrl": "https://placehold.co/400x300?text=Great"
+    },
+    {
+        "id": 227,
+        "category": "basics",
+        "en": "Own",
+        "ru": "Собственный",
+        "imageUrl": "https://placehold.co/400x300?text=Own"
+    },
+    {
+        "id": 228,
+        "category": "basics",
+        "en": "Old",
+        "ru": "Старый",
+        "imageUrl": "https://placehold.co/400x300?text=Old"
+    },
+    {
+        "id": 229,
+        "category": "basics",
+        "en": "Right",
+        "ru": "Правильный / Правый",
+        "imageUrl": "https://placehold.co/400x300?text=Right"
+    },
+    {
+        "id": 230,
+        "category": "basics",
+        "en": "Big",
+        "ru": "Большой",
+        "imageUrl": "https://placehold.co/400x300?text=Big"
+    },
+    {
+        "id": 231,
+        "category": "basics",
+        "en": "High",
+        "ru": "Высокий",
+        "imageUrl": "https://placehold.co/400x300?text=High"
+    },
+    {
+        "id": 232,
+        "category": "basics",
+        "en": "Different",
+        "ru": "Разный / Другой",
+        "imageUrl": "https://placehold.co/400x300?text=Different"
+    },
+    {
+        "id": 233,
+        "category": "basics",
+        "en": "Small",
+        "ru": "Маленький",
+        "imageUrl": "https://placehold.co/400x300?text=Small"
+    },
+    {
+        "id": 234,
+        "category": "basics",
+        "en": "Large",
+        "ru": "Большой",
+        "imageUrl": "https://placehold.co/400x300?text=Large"
+    },
+    {
+        "id": 235,
+        "category": "basics",
+        "en": "Next",
+        "ru": "Следующий",
+        "imageUrl": "https://placehold.co/400x300?text=Next"
+    },
+    {
+        "id": 236,
+        "category": "basics",
+        "en": "Early",
+        "ru": "Ранний / Рано",
+        "imageUrl": "https://placehold.co/400x300?text=Early"
+    },
+    {
+        "id": 237,
+        "category": "basics",
+        "en": "Young",
+        "ru": "Молодой",
+        "imageUrl": "https://placehold.co/400x300?text=Young"
+    },
+    {
+        "id": 238,
+        "category": "basics",
+        "en": "Important",
+        "ru": "Важный",
+        "imageUrl": "https://placehold.co/400x300?text=Important"
+    },
+    {
+        "id": 239,
+        "category": "basics",
+        "en": "Public",
+        "ru": "Публичный / Общественный",
+        "imageUrl": "https://placehold.co/400x300?text=Public"
+    },
+    {
+        "id": 240,
+        "category": "basics",
+        "en": "Bad",
+        "ru": "Плохой",
+        "imageUrl": "https://placehold.co/400x300?text=Bad"
+    },
+    {
+        "id": 241,
+        "category": "basics",
+        "en": "Able",
+        "ru": "Способный",
+        "imageUrl": "https://placehold.co/400x300?text=Able"
+    },
+    {
+        "id": 242,
+        "category": "basics",
+        "en": "Beautiful",
+        "ru": "Красивый",
+        "imageUrl": "https://placehold.co/400x300?text=Beautiful"
+    },
+    {
+        "id": 243,
+        "category": "basics",
+        "en": "Happy",
+        "ru": "Счастливый",
+        "imageUrl": "https://placehold.co/400x300?text=Happy"
+    },
+    {
+        "id": 244,
+        "category": "basics",
+        "en": "Sad",
+        "ru": "Грустный",
+        "imageUrl": "https://placehold.co/400x300?text=Sad"
+    },
+    {
+        "id": 245,
+        "category": "basics",
+        "en": "Fast",
+        "ru": "Быстрый",
+        "imageUrl": "https://placehold.co/400x300?text=Fast"
+    },
+    {
+        "id": 246,
+        "category": "basics",
+        "en": "Slow",
+        "ru": "Медленный",
+        "imageUrl": "https://placehold.co/400x300?text=Slow"
+    },
+    {
+        "id": 247,
+        "category": "basics",
+        "en": "Hard",
+        "ru": "Сложный / Твердый",
+        "imageUrl": "https://placehold.co/400x300?text=Hard"
+    },
+    {
+        "id": 248,
+        "category": "basics",
+        "en": "Easy",
+        "ru": "Легкий (простой)",
+        "imageUrl": "https://placehold.co/400x300?text=Easy"
+    },
+    {
+        "id": 249,
+        "category": "basics",
+        "en": "True",
+        "ru": "Правдивый / Верный",
+        "imageUrl": "https://placehold.co/400x300?text=True"
+    },
+    {
+        "id": 250,
+        "category": "basics",
+        "en": "Sure",
+        "ru": "Уверенный",
+        "imageUrl": "https://placehold.co/400x300?text=Sure"
+    },
+    {
+        "id": 251,
+        "category": "basics",
+        "en": "Red",
+        "ru": "Красный",
+        "imageUrl": "https://placehold.co/400x300?text=Red"
+    },
+    {
+        "id": 252,
+        "category": "basics",
+        "en": "Blue",
+        "ru": "Синий / Голубой",
+        "imageUrl": "https://placehold.co/400x300?text=Blue"
+    },
+    {
+        "id": 253,
+        "category": "basics",
+        "en": "Green",
+        "ru": "Зеленый",
+        "imageUrl": "https://placehold.co/400x300?text=Green"
+    },
+    {
+        "id": 254,
+        "category": "basics",
+        "en": "Yellow",
+        "ru": "Желтый",
+        "imageUrl": "https://placehold.co/400x300?text=Yellow"
+    },
+    {
+        "id": 255,
+        "category": "basics",
+        "en": "Black",
+        "ru": "Черный",
+        "imageUrl": "https://placehold.co/400x300?text=Black"
+    },
+    {
+        "id": 256,
+        "category": "basics",
+        "en": "White",
+        "ru": "Белый",
+        "imageUrl": "https://placehold.co/400x300?text=White"
+    },
+    {
+        "id": 257,
+        "category": "basics",
+        "en": "Brown",
+        "ru": "Коричневый",
+        "imageUrl": "https://placehold.co/400x300?text=Brown"
+    },
+    {
+        "id": 258,
+        "category": "basics",
+        "en": "Orange",
+        "ru": "Оранжевый",
+        "imageUrl": "https://placehold.co/400x300?text=Orange"
+    },
+    {
+        "id": 259,
+        "category": "basics",
+        "en": "Gray",
+        "ru": "Серый",
+        "imageUrl": "https://placehold.co/400x300?text=Gray"
+    },
+    {
+        "id": 260,
+        "category": "basics",
+        "en": "Pink",
+        "ru": "Розовый",
+        "imageUrl": "https://placehold.co/400x300?text=Pink"
+    },
+    {
+        "id": 261,
+        "category": "basics",
+        "en": "One",
+        "ru": "Один",
+        "imageUrl": "https://placehold.co/400x300?text=One"
+    },
+    {
+        "id": 262,
+        "category": "basics",
+        "en": "Two",
+        "ru": "Два",
+        "imageUrl": "https://placehold.co/400x300?text=Two"
+    },
+    {
+        "id": 263,
+        "category": "basics",
+        "en": "Three",
+        "ru": "Три",
+        "imageUrl": "https://placehold.co/400x300?text=Three"
+    },
+    {
+        "id": 264,
+        "category": "basics",
+        "en": "Four",
+        "ru": "Четыре",
+        "imageUrl": "https://placehold.co/400x300?text=Four"
+    },
+    {
+        "id": 265,
+        "category": "basics",
+        "en": "Five",
+        "ru": "Пять",
+        "imageUrl": "https://placehold.co/400x300?text=Five"
+    },
+    {
+        "id": 266,
+        "category": "basics",
+        "en": "Six",
+        "ru": "Шесть",
+        "imageUrl": "https://placehold.co/400x300?text=Six"
+    },
+    {
+        "id": 267,
+        "category": "basics",
+        "en": "Seven",
+        "ru": "Семь",
+        "imageUrl": "https://placehold.co/400x300?text=Seven"
+    },
+    {
+        "id": 268,
+        "category": "basics",
+        "en": "Eight",
+        "ru": "Восемь",
+        "imageUrl": "https://placehold.co/400x300?text=Eight"
+    },
+    {
+        "id": 269,
+        "category": "basics",
+        "en": "Nine",
+        "ru": "Девять",
+        "imageUrl": "https://placehold.co/400x300?text=Nine"
+    },
+    {
+        "id": 270,
+        "category": "basics",
+        "en": "Ten",
+        "ru": "Десять",
+        "imageUrl": "https://placehold.co/400x300?text=Ten"
+    },
+    {
+        "id": 271,
+        "category": "basics",
+        "en": "Person",
+        "ru": "Человек / Личность",
+        "imageUrl": "https://placehold.co/400x300?text=Person"
+    },
+    {
+        "id": 272,
+        "category": "basics",
+        "en": "Boy",
+        "ru": "Мальчик",
+        "imageUrl": "https://placehold.co/400x300?text=Boy"
+    },
+    {
+        "id": 273,
+        "category": "basics",
+        "en": "Girl",
+        "ru": "Девочка",
+        "imageUrl": "https://placehold.co/400x300?text=Girl"
+    },
+    {
+        "id": 274,
+        "category": "basics",
+        "en": "Brother",
+        "ru": "Брат",
+        "imageUrl": "https://placehold.co/400x300?text=Brother"
+    },
+    {
+        "id": 275,
+        "category": "basics",
+        "en": "Sister",
+        "ru": "Сестра",
+        "imageUrl": "https://placehold.co/400x300?text=Sister"
+    },
+    {
+        "id": 276,
+        "category": "basics",
+        "en": "Parents",
+        "ru": "Родители",
+        "imageUrl": "https://placehold.co/400x300?text=Parents"
+    },
+    {
+        "id": 277,
+        "category": "basics",
+        "en": "Son",
+        "ru": "Сын",
+        "imageUrl": "https://placehold.co/400x300?text=Son"
+    },
+    {
+        "id": 278,
+        "category": "basics",
+        "en": "Daughter",
+        "ru": "Дочь",
+        "imageUrl": "https://placehold.co/400x300?text=Daughter"
+    },
+    {
+        "id": 279,
+        "category": "basics",
+        "en": "Baby",
+        "ru": "Малыш / Младенец",
+        "imageUrl": "https://placehold.co/400x300?text=Baby"
+    },
+    {
+        "id": 280,
+        "category": "basics",
+        "en": "Wife",
+        "ru": "Жена",
+        "imageUrl": "https://placehold.co/400x300?text=Wife"
+    },
+    {
+        "id": 281,
+        "category": "basics",
+        "en": "Husband",
+        "ru": "Муж",
+        "imageUrl": "https://placehold.co/400x300?text=Husband"
+    },
+    {
+        "id": 282,
+        "category": "basics",
+        "en": "Marriage",
+        "ru": "Брак",
+        "imageUrl": "https://placehold.co/400x300?text=Marriage"
+    },
+    {
+        "id": 283,
+        "category": "basics",
+        "en": "King",
+        "ru": "Король",
+        "imageUrl": "https://placehold.co/400x300?text=King"
+    },
+    {
+        "id": 284,
+        "category": "basics",
+        "en": "Queen",
+        "ru": "Королева",
+        "imageUrl": "https://placehold.co/400x300?text=Queen"
+    },
+    {
+        "id": 285,
+        "category": "basics",
+        "en": "President",
+        "ru": "Президент",
+        "imageUrl": "https://placehold.co/400x300?text=President"
+    },
+    {
+        "id": 286,
+        "category": "basics",
+        "en": "Officer",
+        "ru": "Офицер / Служащий",
+        "imageUrl": "https://placehold.co/400x300?text=Officer"
+    },
+    {
+        "id": 287,
+        "category": "basics",
+        "en": "Doctor",
+        "ru": "Врач / Доктор",
+        "imageUrl": "https://placehold.co/400x300?text=Doctor"
+    },
+    {
+        "id": 288,
+        "category": "basics",
+        "en": "Teacher",
+        "ru": "Учитель",
+        "imageUrl": "https://placehold.co/400x300?text=Teacher"
+    },
+    {
+        "id": 289,
+        "category": "basics",
+        "en": "Police",
+        "ru": "Полиция",
+        "imageUrl": "https://placehold.co/400x300?text=Police"
+    },
+    {
+        "id": 290,
+        "category": "basics",
+        "en": "Army",
+        "ru": "Армия",
+        "imageUrl": "https://placehold.co/400x300?text=Army"
+    },
+    {
+        "id": 291,
+        "category": "basics",
+        "en": "Body",
+        "ru": "Тело",
+        "imageUrl": "https://placehold.co/400x300?text=Body"
+    },
+    {
+        "id": 292,
+        "category": "basics",
+        "en": "Face",
+        "ru": "Лицо",
+        "imageUrl": "https://placehold.co/400x300?text=Face"
+    },
+    {
+        "id": 293,
+        "category": "basics",
+        "en": "Hair",
+        "ru": "Волосы",
+        "imageUrl": "https://placehold.co/400x300?text=Hair"
+    },
+    {
+        "id": 294,
+        "category": "basics",
+        "en": "Arm",
+        "ru": "Рука (от плеча до кисти)",
+        "imageUrl": "https://placehold.co/400x300?text=Arm"
+    },
+    {
+        "id": 295,
+        "category": "basics",
+        "en": "Leg",
+        "ru": "Нога",
+        "imageUrl": "https://placehold.co/400x300?text=Leg"
+    },
+    {
+        "id": 296,
+        "category": "basics",
+        "en": "Foot",
+        "ru": "Ступня",
+        "imageUrl": "https://placehold.co/400x300?text=Foot"
+    },
+    {
+        "id": 297,
+        "category": "basics",
+        "en": "Ear",
+        "ru": "Ухо",
+        "imageUrl": "https://placehold.co/400x300?text=Ear"
+    },
+    {
+        "id": 298,
+        "category": "basics",
+        "en": "Mouth",
+        "ru": "Рот",
+        "imageUrl": "https://placehold.co/400x300?text=Mouth"
+    },
+    {
+        "id": 299,
+        "category": "basics",
+        "en": "Nose",
+        "ru": "Нос",
+        "imageUrl": "https://placehold.co/400x300?text=Nose"
+    },
+    {
+        "id": 300,
+        "category": "basics",
+        "en": "Heart",
+        "ru": "Сердце",
+        "imageUrl": "https://placehold.co/400x300?text=Heart"
+    },
+    {
+        "id": 301,
+        "category": "basics",
+        "en": "Back",
+        "ru": "Спина / Назад",
+        "imageUrl": "https://placehold.co/400x300?text=Back"
+    },
+    {
+        "id": 302,
+        "category": "basics",
+        "en": "Blood",
+        "ru": "Кровь",
+        "imageUrl": "https://placehold.co/400x300?text=Blood"
+    },
+    {
+        "id": 303,
+        "category": "basics",
+        "en": "Bone",
+        "ru": "Кость",
+        "imageUrl": "https://placehold.co/400x300?text=Bone"
+    },
+    {
+        "id": 304,
+        "category": "basics",
+        "en": "Health",
+        "ru": "Здоровье",
+        "imageUrl": "https://placehold.co/400x300?text=Health"
+    },
+    {
+        "id": 305,
+        "category": "basics",
+        "en": "Sick",
+        "ru": "Больной",
+        "imageUrl": "https://placehold.co/400x300?text=Sick"
+    },
+    {
+        "id": 306,
+        "category": "basics",
+        "en": "Medicine",
+        "ru": "Лекарство",
+        "imageUrl": "https://placehold.co/400x300?text=Medicine"
+    },
+    {
+        "id": 307,
+        "category": "basics",
+        "en": "Pain",
+        "ru": "Боль",
+        "imageUrl": "https://placehold.co/400x300?text=Pain"
+    },
+    {
+        "id": 308,
+        "category": "basics",
+        "en": "Mind",
+        "ru": "Разум / Ум",
+        "imageUrl": "https://placehold.co/400x300?text=Mind"
+    },
+    {
+        "id": 309,
+        "category": "basics",
+        "en": "Voice",
+        "ru": "Голос",
+        "imageUrl": "https://placehold.co/400x300?text=Voice"
+    },
+    {
+        "id": 310,
+        "category": "basics",
+        "en": "Skin",
+        "ru": "Кожа",
+        "imageUrl": "https://placehold.co/400x300?text=Skin"
+    },
+    {
+        "id": 311,
+        "category": "basics",
+        "en": "Morning",
+        "ru": "Утро",
+        "imageUrl": "https://placehold.co/400x300?text=Morning"
+    },
+    {
+        "id": 312,
+        "category": "basics",
+        "en": "Afternoon",
+        "ru": "День (после полудня)",
+        "imageUrl": "https://placehold.co/400x300?text=Afternoon"
+    },
+    {
+        "id": 313,
+        "category": "basics",
+        "en": "Evening",
+        "ru": "Вечер",
+        "imageUrl": "https://placehold.co/400x300?text=Evening"
+    },
+    {
+        "id": 314,
+        "category": "basics",
+        "en": "Today",
+        "ru": "Сегодня",
+        "imageUrl": "https://placehold.co/400x300?text=Today"
+    },
+    {
+        "id": 315,
+        "category": "basics",
+        "en": "Tomorrow",
+        "ru": "Завтра",
+        "imageUrl": "https://placehold.co/400x300?text=Tomorrow"
+    },
+    {
+        "id": 316,
+        "category": "basics",
+        "en": "Yesterday",
+        "ru": "Вчера",
+        "imageUrl": "https://placehold.co/400x300?text=Yesterday"
+    },
+    {
+        "id": 317,
+        "category": "basics",
+        "en": "Second",
+        "ru": "Секунда / Второй",
+        "imageUrl": "https://placehold.co/400x300?text=Second"
+    },
+    {
+        "id": 318,
+        "category": "basics",
+        "en": "Past",
+        "ru": "Прошлое",
+        "imageUrl": "https://placehold.co/400x300?text=Past"
+    },
+    {
+        "id": 319,
+        "category": "basics",
+        "en": "Future",
+        "ru": "Будущее",
+        "imageUrl": "https://placehold.co/400x300?text=Future"
+    },
+    {
+        "id": 320,
+        "category": "basics",
+        "en": "Spring",
+        "ru": "Весна",
+        "imageUrl": "https://placehold.co/400x300?text=Spring"
+    },
+    {
+        "id": 321,
+        "category": "basics",
+        "en": "Summer",
+        "ru": "Лето",
+        "imageUrl": "https://placehold.co/400x300?text=Summer"
+    },
+    {
+        "id": 322,
+        "category": "basics",
+        "en": "Autumn",
+        "ru": "Осень",
+        "imageUrl": "https://placehold.co/400x300?text=Autumn"
+    },
+    {
+        "id": 323,
+        "category": "basics",
+        "en": "Winter",
+        "ru": "Зима",
+        "imageUrl": "https://placehold.co/400x300?text=Winter"
+    },
+    {
+        "id": 324,
+        "category": "basics",
+        "en": "Century",
+        "ru": "Век / Столетие",
+        "imageUrl": "https://placehold.co/400x300?text=Century"
+    },
+    {
+        "id": 325,
+        "category": "basics",
+        "en": "Season",
+        "ru": "Время года",
+        "imageUrl": "https://placehold.co/400x300?text=Season"
+    },
+    {
+        "id": 326,
+        "category": "basics",
+        "en": "Sun",
+        "ru": "Солнце",
+        "imageUrl": "https://placehold.co/400x300?text=Sun"
+    },
+    {
+        "id": 327,
+        "category": "basics",
+        "en": "Moon",
+        "ru": "Луна",
+        "imageUrl": "https://placehold.co/400x300?text=Moon"
+    },
+    {
+        "id": 328,
+        "category": "basics",
+        "en": "Star",
+        "ru": "Звезда",
+        "imageUrl": "https://placehold.co/400x300?text=Star"
+    },
+    {
+        "id": 329,
+        "category": "basics",
+        "en": "Sky",
+        "ru": "Небо",
+        "imageUrl": "https://placehold.co/400x300?text=Sky"
+    },
+    {
+        "id": 330,
+        "category": "basics",
+        "en": "Earth",
+        "ru": "Земля (планета)",
+        "imageUrl": "https://placehold.co/400x300?text=Earth"
+    },
+    {
+        "id": 331,
+        "category": "basics",
+        "en": "Tree",
+        "ru": "Дерево",
+        "imageUrl": "https://placehold.co/400x300?text=Tree"
+    },
+    {
+        "id": 332,
+        "category": "basics",
+        "en": "Flower",
+        "ru": "Цветок",
+        "imageUrl": "https://placehold.co/400x300?text=Flower"
+    },
+    {
+        "id": 333,
+        "category": "basics",
+        "en": "Animal",
+        "ru": "Животное",
+        "imageUrl": "https://placehold.co/400x300?text=Animal"
+    },
+    {
+        "id": 334,
+        "category": "basics",
+        "en": "Dog",
+        "ru": "Собака",
+        "imageUrl": "https://placehold.co/400x300?text=Dog"
+    },
+    {
+        "id": 335,
+        "category": "basics",
+        "en": "Cat",
+        "ru": "Кошка",
+        "imageUrl": "https://placehold.co/400x300?text=Cat"
+    },
+    {
+        "id": 336,
+        "category": "basics",
+        "en": "Bird",
+        "ru": "Птица",
+        "imageUrl": "https://placehold.co/400x300?text=Bird"
+    },
+    {
+        "id": 337,
+        "category": "basics",
+        "en": "Fish",
+        "ru": "Рыба",
+        "imageUrl": "https://placehold.co/400x300?text=Fish"
+    },
+    {
+        "id": 338,
+        "category": "basics",
+        "en": "Horse",
+        "ru": "Лошадь",
+        "imageUrl": "https://placehold.co/400x300?text=Horse"
+    },
+    {
+        "id": 339,
+        "category": "basics",
+        "en": "Cow",
+        "ru": "Корова",
+        "imageUrl": "https://placehold.co/400x300?text=Cow"
+    },
+    {
+        "id": 340,
+        "category": "basics",
+        "en": "Pig",
+        "ru": "Свинья",
+        "imageUrl": "https://placehold.co/400x300?text=Pig"
+    },
+    {
+        "id": 341,
+        "category": "basics",
+        "en": "Bear",
+        "ru": "Медведь",
+        "imageUrl": "https://placehold.co/400x300?text=Bear"
+    },
+    {
+        "id": 342,
+        "category": "basics",
+        "en": "Mouse",
+        "ru": "Мышь",
+        "imageUrl": "https://placehold.co/400x300?text=Mouse"
+    },
+    {
+        "id": 343,
+        "category": "basics",
+        "en": "River",
+        "ru": "Река",
+        "imageUrl": "https://placehold.co/400x300?text=River"
+    },
+    {
+        "id": 344,
+        "category": "basics",
+        "en": "Sea",
+        "ru": "Море",
+        "imageUrl": "https://placehold.co/400x300?text=Sea"
+    },
+    {
+        "id": 345,
+        "category": "basics",
+        "en": "Ocean",
+        "ru": "Океан",
+        "imageUrl": "https://placehold.co/400x300?text=Ocean"
+    },
+    {
+        "id": 346,
+        "category": "basics",
+        "en": "Mountain",
+        "ru": "Гора",
+        "imageUrl": "https://placehold.co/400x300?text=Mountain"
+    },
+    {
+        "id": 347,
+        "category": "basics",
+        "en": "Island",
+        "ru": "Остров",
+        "imageUrl": "https://placehold.co/400x300?text=Island"
+    },
+    {
+        "id": 348,
+        "category": "basics",
+        "en": "Forest",
+        "ru": "Лес",
+        "imageUrl": "https://placehold.co/400x300?text=Forest"
+    },
+    {
+        "id": 349,
+        "category": "basics",
+        "en": "Wind",
+        "ru": "Ветер",
+        "imageUrl": "https://placehold.co/400x300?text=Wind"
+    },
+    {
+        "id": 350,
+        "category": "basics",
+        "en": "Fire",
+        "ru": "Огонь / Пожар",
+        "imageUrl": "https://placehold.co/400x300?text=Fire"
+    },
+    {
+        "id": 351,
+        "category": "basics",
+        "en": "Snow",
+        "ru": "Снег",
+        "imageUrl": "https://placehold.co/400x300?text=Snow"
+    },
+    {
+        "id": 352,
+        "category": "basics",
+        "en": "Rain",
+        "ru": "Дождь",
+        "imageUrl": "https://placehold.co/400x300?text=Rain"
+    },
+    {
+        "id": 353,
+        "category": "basics",
+        "en": "Ground",
+        "ru": "Земля (почва)",
+        "imageUrl": "https://placehold.co/400x300?text=Ground"
+    },
+    {
+        "id": 354,
+        "category": "basics",
+        "en": "Stone",
+        "ru": "Камень",
+        "imageUrl": "https://placehold.co/400x300?text=Stone"
+    },
+    {
+        "id": 355,
+        "category": "basics",
+        "en": "Sand",
+        "ru": "Песок",
+        "imageUrl": "https://placehold.co/400x300?text=Sand"
+    },
+    {
+        "id": 356,
+        "category": "basics",
+        "en": "Nature",
+        "ru": "Природа",
+        "imageUrl": "https://placehold.co/400x300?text=Nature"
+    },
+    {
+        "id": 357,
+        "category": "basics",
+        "en": "Plant",
+        "ru": "Растение",
+        "imageUrl": "https://placehold.co/400x300?text=Plant"
+    },
+    {
+        "id": 358,
+        "category": "basics",
+        "en": "Grass",
+        "ru": "Трава",
+        "imageUrl": "https://placehold.co/400x300?text=Grass"
+    },
+    {
+        "id": 359,
+        "category": "basics",
+        "en": "Wood",
+        "ru": "Древесина / Лес",
+        "imageUrl": "https://placehold.co/400x300?text=Wood"
+    },
+    {
+        "id": 360,
+        "category": "basics",
+        "en": "Air",
+        "ru": "Воздух",
+        "imageUrl": "https://placehold.co/400x300?text=Air"
+    },
+    {
+        "id": 361,
+        "category": "basics",
+        "en": "Food",
+        "ru": "Еда",
+        "imageUrl": "https://placehold.co/400x300?text=Food"
+    },
+    {
+        "id": 362,
+        "category": "basics",
+        "en": "Drink",
+        "ru": "Напиток",
+        "imageUrl": "https://placehold.co/400x300?text=Drink"
+    },
+    {
+        "id": 363,
+        "category": "basics",
+        "en": "Eat",
+        "ru": "Есть (кушать)",
+        "imageUrl": "https://placehold.co/400x300?text=Eat"
+    },
+    {
+        "id": 364,
+        "category": "basics",
+        "en": "Apple",
+        "ru": "Яблоко",
+        "imageUrl": "https://placehold.co/400x300?text=Apple"
+    },
+    {
+        "id": 365,
+        "category": "basics",
+        "en": "Bread",
+        "ru": "Хлеб",
+        "imageUrl": "https://placehold.co/400x300?text=Bread"
+    },
+    {
+        "id": 366,
+        "category": "basics",
+        "en": "Milk",
+        "ru": "Молоко",
+        "imageUrl": "https://placehold.co/400x300?text=Milk"
+    },
+    {
+        "id": 367,
+        "category": "basics",
+        "en": "Tea",
+        "ru": "Чай",
+        "imageUrl": "https://placehold.co/400x300?text=Tea"
+    },
+    {
+        "id": 368,
+        "category": "basics",
+        "en": "Coffee",
+        "ru": "Кофе",
+        "imageUrl": "https://placehold.co/400x300?text=Coffee"
+    },
+    {
+        "id": 369,
+        "category": "basics",
+        "en": "Meat",
+        "ru": "Мясо",
+        "imageUrl": "https://placehold.co/400x300?text=Meat"
+    },
+    {
+        "id": 370,
+        "category": "basics",
+        "en": "Sugar",
+        "ru": "Сахар",
+        "imageUrl": "https://placehold.co/400x300?text=Sugar"
+    },
+    {
+        "id": 371,
+        "category": "basics",
+        "en": "Salt",
+        "ru": "Соль",
+        "imageUrl": "https://placehold.co/400x300?text=Salt"
+    },
+    {
+        "id": 372,
+        "category": "basics",
+        "en": "Soup",
+        "ru": "Суп",
+        "imageUrl": "https://placehold.co/400x300?text=Soup"
+    },
+    {
+        "id": 373,
+        "category": "basics",
+        "en": "Fruit",
+        "ru": "Фрукт",
+        "imageUrl": "https://placehold.co/400x300?text=Fruit"
+    },
+    {
+        "id": 374,
+        "category": "basics",
+        "en": "Vegetable",
+        "ru": "Овощ",
+        "imageUrl": "https://placehold.co/400x300?text=Vegetable"
+    },
+    {
+        "id": 375,
+        "category": "basics",
+        "en": "Egg",
+        "ru": "Яйцо",
+        "imageUrl": "https://placehold.co/400x300?text=Egg"
+    },
+    {
+        "id": 376,
+        "category": "basics",
+        "en": "Cheese",
+        "ru": "Сыр",
+        "imageUrl": "https://placehold.co/400x300?text=Cheese"
+    },
+    {
+        "id": 377,
+        "category": "basics",
+        "en": "Butter",
+        "ru": "Сливочное масло",
+        "imageUrl": "https://placehold.co/400x300?text=Butter"
+    },
+    {
+        "id": 378,
+        "category": "basics",
+        "en": "Oil",
+        "ru": "Масло (растительное) / Нефть",
+        "imageUrl": "https://placehold.co/400x300?text=Oil"
+    },
+    {
+        "id": 379,
+        "category": "basics",
+        "en": "Breakfast",
+        "ru": "Завтрак",
+        "imageUrl": "https://placehold.co/400x300?text=Breakfast"
+    },
+    {
+        "id": 380,
+        "category": "basics",
+        "en": "Lunch",
+        "ru": "Обед",
+        "imageUrl": "https://placehold.co/400x300?text=Lunch"
+    },
+    {
+        "id": 381,
+        "category": "basics",
+        "en": "Dinner",
+        "ru": "Ужин",
+        "imageUrl": "https://placehold.co/400x300?text=Dinner"
+    },
+    {
+        "id": 382,
+        "category": "basics",
+        "en": "Clothes",
+        "ru": "Одежда",
+        "imageUrl": "https://placehold.co/400x300?text=Clothes"
+    },
+    {
+        "id": 383,
+        "category": "basics",
+        "en": "Shirt",
+        "ru": "Рубашка",
+        "imageUrl": "https://placehold.co/400x300?text=Shirt"
+    },
+    {
+        "id": 384,
+        "category": "basics",
+        "en": "T-shirt",
+        "ru": "Футболка",
+        "imageUrl": "https://placehold.co/400x300?text=T-shirt"
+    },
+    {
+        "id": 385,
+        "category": "basics",
+        "en": "Shoe",
+        "ru": "Обувь / Туфля",
+        "imageUrl": "https://placehold.co/400x300?text=Shoe"
+    },
+    {
+        "id": 386,
+        "category": "basics",
+        "en": "Dress",
+        "ru": "Платье",
+        "imageUrl": "https://placehold.co/400x300?text=Dress"
+    },
+    {
+        "id": 387,
+        "category": "basics",
+        "en": "Hat",
+        "ru": "Шляпа / Шапка",
+        "imageUrl": "https://placehold.co/400x300?text=Hat"
+    },
+    {
+        "id": 388,
+        "category": "basics",
+        "en": "Coat",
+        "ru": "Пальто",
+        "imageUrl": "https://placehold.co/400x300?text=Coat"
+    },
+    {
+        "id": 389,
+        "category": "basics",
+        "en": "Pants",
+        "ru": "Брюки / Штаны",
+        "imageUrl": "https://placehold.co/400x300?text=Pants"
+    },
+    {
+        "id": 390,
+        "category": "basics",
+        "en": "Jacket",
+        "ru": "Куртка / Пиджак",
+        "imageUrl": "https://placehold.co/400x300?text=Jacket"
+    },
+    {
+        "id": 391,
+        "category": "basics",
+        "en": "Ring",
+        "ru": "Кольцо",
+        "imageUrl": "https://placehold.co/400x300?text=Ring"
+    },
+    {
+        "id": 392,
+        "category": "basics",
+        "en": "Bag",
+        "ru": "Сумка",
+        "imageUrl": "https://placehold.co/400x300?text=Bag"
+    },
+    {
+        "id": 393,
+        "category": "basics",
+        "en": "Pocket",
+        "ru": "Карман",
+        "imageUrl": "https://placehold.co/400x300?text=Pocket"
+    },
+    {
+        "id": 394,
+        "category": "basics",
+        "en": "Door",
+        "ru": "Дверь",
+        "imageUrl": "https://placehold.co/400x300?text=Door"
+    },
+    {
+        "id": 395,
+        "category": "basics",
+        "en": "Window",
+        "ru": "Окно",
+        "imageUrl": "https://placehold.co/400x300?text=Window"
+    },
+    {
+        "id": 396,
+        "category": "basics",
+        "en": "Wall",
+        "ru": "Стена",
+        "imageUrl": "https://placehold.co/400x300?text=Wall"
+    },
+    {
+        "id": 397,
+        "category": "basics",
+        "en": "Floor",
+        "ru": "Пол / Этаж",
+        "imageUrl": "https://placehold.co/400x300?text=Floor"
+    },
+    {
+        "id": 398,
+        "category": "basics",
+        "en": "Bed",
+        "ru": "Кровать",
+        "imageUrl": "https://placehold.co/400x300?text=Bed"
+    },
+    {
+        "id": 399,
+        "category": "basics",
+        "en": "Table",
+        "ru": "Стол",
+        "imageUrl": "https://placehold.co/400x300?text=Table"
+    },
+    {
+        "id": 400,
+        "category": "basics",
+        "en": "Chair",
+        "ru": "Стул",
+        "imageUrl": "https://placehold.co/400x300?text=Chair"
+    },
+    {
+        "id": 401,
+        "category": "basics",
+        "en": "Box",
+        "ru": "Коробка / Ящик",
+        "imageUrl": "https://placehold.co/400x300?text=Box"
+    },
+    {
+        "id": 402,
+        "category": "basics",
+        "en": "Key",
+        "ru": "Ключ",
+        "imageUrl": "https://placehold.co/400x300?text=Key"
+    },
+    {
+        "id": 403,
+        "category": "basics",
+        "en": "Clock",
+        "ru": "Часы (настенные)",
+        "imageUrl": "https://placehold.co/400x300?text=Clock"
+    },
+    {
+        "id": 404,
+        "category": "basics",
+        "en": "Picture",
+        "ru": "Картина / Фото",
+        "imageUrl": "https://placehold.co/400x300?text=Picture"
+    },
+    {
+        "id": 405,
+        "category": "basics",
+        "en": "Phone",
+        "ru": "Телефон",
+        "imageUrl": "https://placehold.co/400x300?text=Phone"
+    },
+    {
+        "id": 406,
+        "category": "basics",
+        "en": "Computer",
+        "ru": "Компьютер",
+        "imageUrl": "https://placehold.co/400x300?text=Computer"
+    },
+    {
+        "id": 407,
+        "category": "basics",
+        "en": "Screen",
+        "ru": "Экран",
+        "imageUrl": "https://placehold.co/400x300?text=Screen"
+    },
+    {
+        "id": 408,
+        "category": "basics",
+        "en": "Paper",
+        "ru": "Бумага",
+        "imageUrl": "https://placehold.co/400x300?text=Paper"
+    },
+    {
+        "id": 409,
+        "category": "basics",
+        "en": "Pen",
+        "ru": "Ручка",
+        "imageUrl": "https://placehold.co/400x300?text=Pen"
+    },
+    {
+        "id": 410,
+        "category": "basics",
+        "en": "Pencil",
+        "ru": "Карандаш",
+        "imageUrl": "https://placehold.co/400x300?text=Pencil"
+    },
+    {
+        "id": 411,
+        "category": "basics",
+        "en": "Letter",
+        "ru": "Письмо / Буква",
+        "imageUrl": "https://placehold.co/400x300?text=Letter"
+    },
+    {
+        "id": 412,
+        "category": "basics",
+        "en": "Music",
+        "ru": "Музыка",
+        "imageUrl": "https://placehold.co/400x300?text=Music"
+    },
+    {
+        "id": 413,
+        "category": "basics",
+        "en": "Song",
+        "ru": "Песня",
+        "imageUrl": "https://placehold.co/400x300?text=Song"
+    },
+    {
+        "id": 414,
+        "category": "basics",
+        "en": "Art",
+        "ru": "Искусство",
+        "imageUrl": "https://placehold.co/400x300?text=Art"
+    },
+    {
+        "id": 415,
+        "category": "basics",
+        "en": "Map",
+        "ru": "Карта",
+        "imageUrl": "https://placehold.co/400x300?text=Map"
+    },
+    {
+        "id": 416,
+        "category": "basics",
+        "en": "News",
+        "ru": "Новости",
+        "imageUrl": "https://placehold.co/400x300?text=News"
+    },
+    {
+        "id": 417,
+        "category": "basics",
+        "en": "Page",
+        "ru": "Страница",
+        "imageUrl": "https://placehold.co/400x300?text=Page"
+    },
+    {
+        "id": 418,
+        "category": "basics",
+        "en": "Street",
+        "ru": "Улица",
+        "imageUrl": "https://placehold.co/400x300?text=Street"
+    },
+    {
+        "id": 419,
+        "category": "basics",
+        "en": "Road",
+        "ru": "Дорога",
+        "imageUrl": "https://placehold.co/400x300?text=Road"
+    },
+    {
+        "id": 420,
+        "category": "basics",
+        "en": "Shop",
+        "ru": "Магазин (небольшой)",
+        "imageUrl": "https://placehold.co/400x300?text=Shop"
+    },
+    {
+        "id": 421,
+        "category": "basics",
+        "en": "Store",
+        "ru": "Магазин / Хранить",
+        "imageUrl": "https://placehold.co/400x300?text=Store"
+    },
+    {
+        "id": 422,
+        "category": "basics",
+        "en": "Park",
+        "ru": "Парк",
+        "imageUrl": "https://placehold.co/400x300?text=Park"
+    },
+    {
+        "id": 423,
+        "category": "basics",
+        "en": "Bank",
+        "ru": "Банк",
+        "imageUrl": "https://placehold.co/400x300?text=Bank"
+    },
+    {
+        "id": 424,
+        "category": "basics",
+        "en": "Town",
+        "ru": "Город (небольшой)",
+        "imageUrl": "https://placehold.co/400x300?text=Town"
+    },
+    {
+        "id": 425,
+        "category": "basics",
+        "en": "Village",
+        "ru": "Деревня",
+        "imageUrl": "https://placehold.co/400x300?text=Village"
+    },
+    {
+        "id": 426,
+        "category": "basics",
+        "en": "Center",
+        "ru": "Центр",
+        "imageUrl": "https://placehold.co/400x300?text=Center"
+    },
+    {
+        "id": 427,
+        "category": "basics",
+        "en": "Capital",
+        "ru": "Столица",
+        "imageUrl": "https://placehold.co/400x300?text=Capital"
+    },
+    {
+        "id": 428,
+        "category": "basics",
+        "en": "Hospital",
+        "ru": "Больница",
+        "imageUrl": "https://placehold.co/400x300?text=Hospital"
+    },
+    {
+        "id": 429,
+        "category": "basics",
+        "en": "Station",
+        "ru": "Станция / Вокзал",
+        "imageUrl": "https://placehold.co/400x300?text=Station"
+    },
+    {
+        "id": 430,
+        "category": "basics",
+        "en": "Airport",
+        "ru": "Аэропорт",
+        "imageUrl": "https://placehold.co/400x300?text=Airport"
+    },
+    {
+        "id": 431,
+        "category": "basics",
+        "en": "Hotel",
+        "ru": "Отель",
+        "imageUrl": "https://placehold.co/400x300?text=Hotel"
+    },
+    {
+        "id": 432,
+        "category": "basics",
+        "en": "Restaurant",
+        "ru": "Ресторан",
+        "imageUrl": "https://placehold.co/400x300?text=Restaurant"
+    },
+    {
+        "id": 433,
+        "category": "basics",
+        "en": "Market",
+        "ru": "Рынок",
+        "imageUrl": "https://placehold.co/400x300?text=Market"
+    },
+    {
+        "id": 434,
+        "category": "basics",
+        "en": "Church",
+        "ru": "Церковь",
+        "imageUrl": "https://placehold.co/400x300?text=Church"
+    },
+    {
+        "id": 435,
+        "category": "basics",
+        "en": "Bridge",
+        "ru": "Мост",
+        "imageUrl": "https://placehold.co/400x300?text=Bridge"
+    },
+    {
+        "id": 436,
+        "category": "basics",
+        "en": "Machine",
+        "ru": "Машина / Механизм",
+        "imageUrl": "https://placehold.co/400x300?text=Machine"
+    },
+    {
+        "id": 437,
+        "category": "basics",
+        "en": "Engine",
+        "ru": "Двигатель",
+        "imageUrl": "https://placehold.co/400x300?text=Engine"
+    },
+    {
+        "id": 438,
+        "category": "basics",
+        "en": "Boat",
+        "ru": "Лодка",
+        "imageUrl": "https://placehold.co/400x300?text=Boat"
+    },
+    {
+        "id": 439,
+        "category": "basics",
+        "en": "Ship",
+        "ru": "Корабль",
+        "imageUrl": "https://placehold.co/400x300?text=Ship"
+    },
+    {
+        "id": 440,
+        "category": "basics",
+        "en": "Train",
+        "ru": "Поезд",
+        "imageUrl": "https://placehold.co/400x300?text=Train"
+    },
+    {
+        "id": 441,
+        "category": "basics",
+        "en": "Plane",
+        "ru": "Самолет",
+        "imageUrl": "https://placehold.co/400x300?text=Plane"
+    },
+    {
+        "id": 442,
+        "category": "basics",
+        "en": "Ticket",
+        "ru": "Билет",
+        "imageUrl": "https://placehold.co/400x300?text=Ticket"
+    },
+    {
+        "id": 443,
+        "category": "basics",
+        "en": "Price",
+        "ru": "Цена",
+        "imageUrl": "https://placehold.co/400x300?text=Price"
+    },
+    {
+        "id": 444,
+        "category": "basics",
+        "en": "Cost",
+        "ru": "Стоимость / Стоить",
+        "imageUrl": "https://placehold.co/400x300?text=Cost"
+    },
+    {
+        "id": 445,
+        "category": "basics",
+        "en": "Value",
+        "ru": "Ценность / Значение",
+        "imageUrl": "https://placehold.co/400x300?text=Value"
+    },
+    {
+        "id": 446,
+        "category": "basics",
+        "en": "Half",
+        "ru": "Половина",
+        "imageUrl": "https://placehold.co/400x300?text=Half"
+    },
+    {
+        "id": 447,
+        "category": "basics",
+        "en": "Piece",
+        "ru": "Кусок / Часть",
+        "imageUrl": "https://placehold.co/400x300?text=Piece"
+    },
+    {
+        "id": 448,
+        "category": "basics",
+        "en": "Size",
+        "ru": "Размер",
+        "imageUrl": "https://placehold.co/400x300?text=Size"
+    },
+    {
+        "id": 449,
+        "category": "basics",
+        "en": "Shape",
+        "ru": "Форма",
+        "imageUrl": "https://placehold.co/400x300?text=Shape"
+    },
+    {
+        "id": 450,
+        "category": "basics",
+        "en": "Round",
+        "ru": "Круглый",
+        "imageUrl": "https://placehold.co/400x300?text=Round"
+    },
+    {
+        "id": 451,
+        "category": "basics",
+        "en": "Square",
+        "ru": "Квадрат",
+        "imageUrl": "https://placehold.co/400x300?text=Square"
+    },
+    {
+        "id": 452,
+        "category": "basics",
+        "en": "Flat",
+        "ru": "Плоский / Квартира",
+        "imageUrl": "https://placehold.co/400x300?text=Flat"
+    },
+    {
+        "id": 453,
+        "category": "basics",
+        "en": "Hot",
+        "ru": "Горячий / Жаркий",
+        "imageUrl": "https://placehold.co/400x300?text=Hot"
+    },
+    {
+        "id": 454,
+        "category": "basics",
+        "en": "Cold",
+        "ru": "Холодный",
+        "imageUrl": "https://placehold.co/400x300?text=Cold"
+    },
+    {
+        "id": 455,
+        "category": "basics",
+        "en": "Warm",
+        "ru": "Теплый",
+        "imageUrl": "https://placehold.co/400x300?text=Warm"
+    },
+    {
+        "id": 456,
+        "category": "basics",
+        "en": "Cool",
+        "ru": "Прохладный / Классный",
+        "imageUrl": "https://placehold.co/400x300?text=Cool"
+    },
+    {
+        "id": 457,
+        "category": "basics",
+        "en": "Strong",
+        "ru": "Сильный",
+        "imageUrl": "https://placehold.co/400x300?text=Strong"
+    },
+    {
+        "id": 458,
+        "category": "basics",
+        "en": "Weak",
+        "ru": "Слабый",
+        "imageUrl": "https://placehold.co/400x300?text=Weak"
+    },
+    {
+        "id": 459,
+        "category": "basics",
+        "en": "Heavy",
+        "ru": "Тяжелый",
+        "imageUrl": "https://placehold.co/400x300?text=Heavy"
+    },
+    {
+        "id": 460,
+        "category": "basics",
+        "en": "Light",
+        "ru": "Светлый / Легкий / Свет",
+        "imageUrl": "https://placehold.co/400x300?text=Light"
+    },
+    {
+        "id": 461,
+        "category": "basics",
+        "en": "Dark",
+        "ru": "Темный",
+        "imageUrl": "https://placehold.co/400x300?text=Dark"
+    },
+    {
+        "id": 462,
+        "category": "basics",
+        "en": "Full",
+        "ru": "Полный",
+        "imageUrl": "https://placehold.co/400x300?text=Full"
+    },
+    {
+        "id": 463,
+        "category": "basics",
+        "en": "Empty",
+        "ru": "Пустой",
+        "imageUrl": "https://placehold.co/400x300?text=Empty"
+    },
+    {
+        "id": 464,
+        "category": "basics",
+        "en": "Clean",
+        "ru": "Чистый / Чистить",
+        "imageUrl": "https://placehold.co/400x300?text=Clean"
+    },
+    {
+        "id": 465,
+        "category": "basics",
+        "en": "Dirty",
+        "ru": "Грязный",
+        "imageUrl": "https://placehold.co/400x300?text=Dirty"
+    },
+    {
+        "id": 466,
+        "category": "basics",
+        "en": "Rich",
+        "ru": "Богатый",
+        "imageUrl": "https://placehold.co/400x300?text=Rich"
+    },
+    {
+        "id": 467,
+        "category": "basics",
+        "en": "Poor",
+        "ru": "Бедный",
+        "imageUrl": "https://placehold.co/400x300?text=Poor"
+    },
+    {
+        "id": 468,
+        "category": "basics",
+        "en": "Cheap",
+        "ru": "Дешевый",
+        "imageUrl": "https://placehold.co/400x300?text=Cheap"
+    },
+    {
+        "id": 469,
+        "category": "basics",
+        "en": "Expensive",
+        "ru": "Дорогой",
+        "imageUrl": "https://placehold.co/400x300?text=Expensive"
+    },
+    {
+        "id": 470,
+        "category": "basics",
+        "en": "Safe",
+        "ru": "Безопасный",
+        "imageUrl": "https://placehold.co/400x300?text=Safe"
+    },
+    {
+        "id": 471,
+        "category": "basics",
+        "en": "Dangerous",
+        "ru": "Опасный",
+        "imageUrl": "https://placehold.co/400x300?text=Dangerous"
+    },
+    {
+        "id": 472,
+        "category": "basics",
+        "en": "Open",
+        "ru": "Открытый / Открывать",
+        "imageUrl": "https://placehold.co/400x300?text=Open"
+    },
+    {
+        "id": 473,
+        "category": "basics",
+        "en": "Closed",
+        "ru": "Закрытый",
+        "imageUrl": "https://placehold.co/400x300?text=Closed"
+    },
+    {
+        "id": 474,
+        "category": "basics",
+        "en": "Free",
+        "ru": "Свободный / Бесплатный",
+        "imageUrl": "https://placehold.co/400x300?text=Free"
+    },
+    {
+        "id": 475,
+        "category": "basics",
+        "en": "Busy",
+        "ru": "Занятый",
+        "imageUrl": "https://placehold.co/400x300?text=Busy"
+    },
+    {
+        "id": 476,
+        "category": "basics",
+        "en": "Ready",
+        "ru": "Готовый",
+        "imageUrl": "https://placehold.co/400x300?text=Ready"
+    },
+    {
+        "id": 477,
+        "category": "basics",
+        "en": "Late",
+        "ru": "Поздний / Опоздавший",
+        "imageUrl": "https://placehold.co/400x300?text=Late"
+    },
+    {
+        "id": 478,
+        "category": "basics",
+        "en": "Clear",
+        "ru": "Ясный / Понятный",
+        "imageUrl": "https://placehold.co/400x300?text=Clear"
+    },
+    {
+        "id": 479,
+        "category": "basics",
+        "en": "Real",
+        "ru": "Реальный / Настоящий",
+        "imageUrl": "https://placehold.co/400x300?text=Real"
+    },
+    {
+        "id": 480,
+        "category": "basics",
+        "en": "Possible",
+        "ru": "Возможный",
+        "imageUrl": "https://placehold.co/400x300?text=Possible"
+    },
+    {
+        "id": 481,
+        "category": "basics",
+        "en": "Certain",
+        "ru": "Определенный / Уверенный",
+        "imageUrl": "https://placehold.co/400x300?text=Certain"
+    },
+    {
+        "id": 482,
+        "category": "basics",
+        "en": "Walk",
+        "ru": "Гулять / Идти пешком",
+        "imageUrl": "https://placehold.co/400x300?text=Walk"
+    },
+    {
+        "id": 483,
+        "category": "basics",
+        "en": "Jump",
+        "ru": "Прыгать",
+        "imageUrl": "https://placehold.co/400x300?text=Jump"
+    },
+    {
+        "id": 484,
+        "category": "basics",
+        "en": "Sleep",
+        "ru": "Спать",
+        "imageUrl": "https://placehold.co/400x300?text=Sleep"
+    },
+    {
+        "id": 485,
+        "category": "basics",
+        "en": "Wake",
+        "ru": "Просыпаться",
+        "imageUrl": "https://placehold.co/400x300?text=Wake"
+    },
+    {
+        "id": 486,
+        "category": "basics",
+        "en": "Wash",
+        "ru": "Мыть / Умываться",
+        "imageUrl": "https://placehold.co/400x300?text=Wash"
+    },
+    {
+        "id": 487,
+        "category": "basics",
+        "en": "Buy",
+        "ru": "Покупать",
+        "imageUrl": "https://placehold.co/400x300?text=Buy"
+    },
+    {
+        "id": 488,
+        "category": "basics",
+        "en": "Sell",
+        "ru": "Продавать",
+        "imageUrl": "https://placehold.co/400x300?text=Sell"
+    },
+    {
+        "id": 489,
+        "category": "basics",
+        "en": "Drive",
+        "ru": "Водить (транспорт)",
+        "imageUrl": "https://placehold.co/400x300?text=Drive"
+    },
+    {
+        "id": 490,
+        "category": "basics",
+        "en": "Fly",
+        "ru": "Летать",
+        "imageUrl": "https://placehold.co/400x300?text=Fly"
+    },
+    {
+        "id": 491,
+        "category": "basics",
+        "en": "Sing",
+        "ru": "Петь",
+        "imageUrl": "https://placehold.co/400x300?text=Sing"
+    },
+    {
+        "id": 492,
+        "category": "basics",
+        "en": "Dance",
+        "ru": "Танцевать",
+        "imageUrl": "https://placehold.co/400x300?text=Dance"
+    },
+    {
+        "id": 493,
+        "category": "basics",
+        "en": "Draw",
+        "ru": "Рисовать",
+        "imageUrl": "https://placehold.co/400x300?text=Draw"
+    },
+    {
+        "id": 494,
+        "category": "basics",
+        "en": "Laugh",
+        "ru": "Смеяться",
+        "imageUrl": "https://placehold.co/400x300?text=Laugh"
+    },
+    {
+        "id": 495,
+        "category": "basics",
+        "en": "Cry",
+        "ru": "Плакать / Кричать",
+        "imageUrl": "https://placehold.co/400x300?text=Cry"
+    },
+    {
+        "id": 496,
+        "category": "basics",
+        "en": "Smile",
+        "ru": "Улыбаться",
+        "imageUrl": "https://placehold.co/400x300?text=Smile"
+    },
+    {
+        "id": 497,
+        "category": "basics",
+        "en": "Love",
+        "ru": "Любить",
+        "imageUrl": "https://placehold.co/400x300?text=Love"
+    },
+    {
+        "id": 498,
+        "category": "basics",
+        "en": "Wait",
+        "ru": "Ждать",
+        "imageUrl": "https://placehold.co/400x300?text=Wait"
+    },
+    {
+        "id": 499,
+        "category": "basics",
+        "en": "Win",
+        "ru": "Выигрывать / Побеждать",
+        "imageUrl": "https://placehold.co/400x300?text=Win"
+    },
+    {
+        "id": 500,
+        "category": "basics",
+        "en": "Build",
+        "ru": "Строить",
+        "imageUrl": "https://placehold.co/400x300?text=Build"
+    },
+    {
+        "id": 501,
+        "category": "irregular_verbs",
+        "en": "Просыпаться",
+        "ru": "awake - awoke - awoken",
+        "imageUrl": "https://placehold.co/400x300?text=awake"
+    },
+    {
+        "id": 502,
+        "category": "irregular_verbs",
+        "en": "Быть",
+        "ru": "be - was/were - been",
+        "imageUrl": "https://placehold.co/400x300?text=be"
+    },
+    {
+        "id": 503,
+        "category": "irregular_verbs",
+        "en": "Бить / Побеждать",
+        "ru": "beat - beat - beaten",
+        "imageUrl": "https://placehold.co/400x300?text=beat"
+    },
+    {
+        "id": 504,
+        "category": "irregular_verbs",
+        "en": "Становиться",
+        "ru": "become - became - become",
+        "imageUrl": "https://placehold.co/400x300?text=become"
+    },
+    {
+        "id": 505,
+        "category": "irregular_verbs",
+        "en": "Начинать",
+        "ru": "begin - began - begun",
+        "imageUrl": "https://placehold.co/400x300?text=begin"
+    },
+    {
+        "id": 506,
+        "category": "irregular_verbs",
+        "en": "Кусать",
+        "ru": "bite - bit - bitten",
+        "imageUrl": "https://placehold.co/400x300?text=bite"
+    },
+    {
+        "id": 507,
+        "category": "irregular_verbs",
+        "en": "Кровоточить",
+        "ru": "bleed - bled - bled",
+        "imageUrl": "https://placehold.co/400x300?text=bleed"
+    },
+    {
+        "id": 508,
+        "category": "irregular_verbs",
+        "en": "Дуть",
+        "ru": "blow - blew - blown",
+        "imageUrl": "https://placehold.co/400x300?text=blow"
+    },
+    {
+        "id": 509,
+        "category": "irregular_verbs",
+        "en": "Ломать",
+        "ru": "break - broke - broken",
+        "imageUrl": "https://placehold.co/400x300?text=break"
+    },
+    {
+        "id": 510,
+        "category": "irregular_verbs",
+        "en": "Приносить",
+        "ru": "bring - brought - brought",
+        "imageUrl": "https://placehold.co/400x300?text=bring"
+    },
+    {
+        "id": 511,
+        "category": "irregular_verbs",
+        "en": "Строить",
+        "ru": "build - built - built",
+        "imageUrl": "https://placehold.co/400x300?text=build"
+    },
+    {
+        "id": 512,
+        "category": "irregular_verbs",
+        "en": "Гореть / Жечь",
+        "ru": "burn - burnt - burnt",
+        "imageUrl": "https://placehold.co/400x300?text=burn"
+    },
+    {
+        "id": 513,
+        "category": "irregular_verbs",
+        "en": "Покупать",
+        "ru": "buy - bought - bought",
+        "imageUrl": "https://placehold.co/400x300?text=buy"
+    },
+    {
+        "id": 514,
+        "category": "irregular_verbs",
+        "en": "Ловить",
+        "ru": "catch - caught - caught",
+        "imageUrl": "https://placehold.co/400x300?text=catch"
+    },
+    {
+        "id": 515,
+        "category": "irregular_verbs",
+        "en": "Выбирать",
+        "ru": "choose - chose - chosen",
+        "imageUrl": "https://placehold.co/400x300?text=choose"
+    },
+    {
+        "id": 516,
+        "category": "irregular_verbs",
+        "en": "Приходить",
+        "ru": "come - came - come",
+        "imageUrl": "https://placehold.co/400x300?text=come"
+    },
+    {
+        "id": 517,
+        "category": "irregular_verbs",
+        "en": "Стоить",
+        "ru": "cost - cost - cost",
+        "imageUrl": "https://placehold.co/400x300?text=cost"
+    },
+    {
+        "id": 518,
+        "category": "irregular_verbs",
+        "en": "Резать",
+        "ru": "cut - cut - cut",
+        "imageUrl": "https://placehold.co/400x300?text=cut"
+    },
+    {
+        "id": 519,
+        "category": "irregular_verbs",
+        "en": "Иметь дело",
+        "ru": "deal - dealt - dealt",
+        "imageUrl": "https://placehold.co/400x300?text=deal"
+    },
+    {
+        "id": 520,
+        "category": "irregular_verbs",
+        "en": "Копать",
+        "ru": "dig - dug - dug",
+        "imageUrl": "https://placehold.co/400x300?text=dig"
+    },
+    {
+        "id": 521,
+        "category": "irregular_verbs",
+        "en": "Делать",
+        "ru": "do - did - done",
+        "imageUrl": "https://placehold.co/400x300?text=do"
+    },
+    {
+        "id": 522,
+        "category": "irregular_verbs",
+        "en": "Рисовать / Тянуть",
+        "ru": "draw - drew - drawn",
+        "imageUrl": "https://placehold.co/400x300?text=draw"
+    },
+    {
+        "id": 523,
+        "category": "irregular_verbs",
+        "en": "Мечтать / Видеть сон",
+        "ru": "dream - dreamt - dreamt",
+        "imageUrl": "https://placehold.co/400x300?text=dream"
+    },
+    {
+        "id": 524,
+        "category": "irregular_verbs",
+        "en": "Пить",
+        "ru": "drink - drank - drunk",
+        "imageUrl": "https://placehold.co/400x300?text=drink"
+    },
+    {
+        "id": 525,
+        "category": "irregular_verbs",
+        "en": "Водить (машину)",
+        "ru": "drive - drove - driven",
+        "imageUrl": "https://placehold.co/400x300?text=drive"
+    },
+    {
+        "id": 526,
+        "category": "irregular_verbs",
+        "en": "Есть (кушать)",
+        "ru": "eat - ate - eaten",
+        "imageUrl": "https://placehold.co/400x300?text=eat"
+    },
+    {
+        "id": 527,
+        "category": "irregular_verbs",
+        "en": "Падать",
+        "ru": "fall - fell - fallen",
+        "imageUrl": "https://placehold.co/400x300?text=fall"
+    },
+    {
+        "id": 528,
+        "category": "irregular_verbs",
+        "en": "Кормить",
+        "ru": "feed - fed - fed",
+        "imageUrl": "https://placehold.co/400x300?text=feed"
+    },
+    {
+        "id": 529,
+        "category": "irregular_verbs",
+        "en": "Чувствовать",
+        "ru": "feel - felt - felt",
+        "imageUrl": "https://placehold.co/400x300?text=feel"
+    },
+    {
+        "id": 530,
+        "category": "irregular_verbs",
+        "en": "Драться / Бороться",
+        "ru": "fight - fought - fought",
+        "imageUrl": "https://placehold.co/400x300?text=fight"
+    },
+    {
+        "id": 531,
+        "category": "irregular_verbs",
+        "en": "Находить",
+        "ru": "find - found - found",
+        "imageUrl": "https://placehold.co/400x300?text=find"
+    },
+    {
+        "id": 532,
+        "category": "irregular_verbs",
+        "en": "Летать",
+        "ru": "fly - flew - flown",
+        "imageUrl": "https://placehold.co/400x300?text=fly"
+    },
+    {
+        "id": 533,
+        "category": "irregular_verbs",
+        "en": "Запрещать",
+        "ru": "forbid - forbade - forbidden",
+        "imageUrl": "https://placehold.co/400x300?text=forbid"
+    },
+    {
+        "id": 534,
+        "category": "irregular_verbs",
+        "en": "Забывать",
+        "ru": "forget - forgot - forgotten",
+        "imageUrl": "https://placehold.co/400x300?text=forget"
+    },
+    {
+        "id": 535,
+        "category": "irregular_verbs",
+        "en": "Прощать",
+        "ru": "forgive - forgave - forgiven",
+        "imageUrl": "https://placehold.co/400x300?text=forgive"
+    },
+    {
+        "id": 536,
+        "category": "irregular_verbs",
+        "en": "Замерзать",
+        "ru": "freeze - froze - frozen",
+        "imageUrl": "https://placehold.co/400x300?text=freeze"
+    },
+    {
+        "id": 537,
+        "category": "irregular_verbs",
+        "en": "Получать",
+        "ru": "get - got - got",
+        "imageUrl": "https://placehold.co/400x300?text=get"
+    },
+    {
+        "id": 538,
+        "category": "irregular_verbs",
+        "en": "Давать",
+        "ru": "give - gave - given",
+        "imageUrl": "https://placehold.co/400x300?text=give"
+    },
+    {
+        "id": 539,
+        "category": "irregular_verbs",
+        "en": "Идти / Ехать",
+        "ru": "go - went - gone",
+        "imageUrl": "https://placehold.co/400x300?text=go"
+    },
+    {
+        "id": 540,
+        "category": "irregular_verbs",
+        "en": "Расти",
+        "ru": "grow - grew - grown",
+        "imageUrl": "https://placehold.co/400x300?text=grow"
+    },
+    {
+        "id": 541,
+        "category": "irregular_verbs",
+        "en": "Висеть / Вешать",
+        "ru": "hang - hung - hung",
+        "imageUrl": "https://placehold.co/400x300?text=hang"
+    },
+    {
+        "id": 542,
+        "category": "irregular_verbs",
+        "en": "Иметь",
+        "ru": "have - had - had",
+        "imageUrl": "https://placehold.co/400x300?text=have"
+    },
+    {
+        "id": 543,
+        "category": "irregular_verbs",
+        "en": "Слышать",
+        "ru": "hear - heard - heard",
+        "imageUrl": "https://placehold.co/400x300?text=hear"
+    },
+    {
+        "id": 544,
+        "category": "irregular_verbs",
+        "en": "Прятать(ся)",
+        "ru": "hide - hid - hidden",
+        "imageUrl": "https://placehold.co/400x300?text=hide"
+    },
+    {
+        "id": 545,
+        "category": "irregular_verbs",
+        "en": "Ударять",
+        "ru": "hit - hit - hit",
+        "imageUrl": "https://placehold.co/400x300?text=hit"
+    },
+    {
+        "id": 546,
+        "category": "irregular_verbs",
+        "en": "Держать",
+        "ru": "hold - held - held",
+        "imageUrl": "https://placehold.co/400x300?text=hold"
+    },
+    {
+        "id": 547,
+        "category": "irregular_verbs",
+        "en": "Ранить / Болеть",
+        "ru": "hurt - hurt - hurt",
+        "imageUrl": "https://placehold.co/400x300?text=hurt"
+    },
+    {
+        "id": 548,
+        "category": "irregular_verbs",
+        "en": "Хранить / Держать",
+        "ru": "keep - kept - kept",
+        "imageUrl": "https://placehold.co/400x300?text=keep"
+    },
+    {
+        "id": 549,
+        "category": "irregular_verbs",
+        "en": "Знать",
+        "ru": "know - knew - known",
+        "imageUrl": "https://placehold.co/400x300?text=know"
+    },
+    {
+        "id": 550,
+        "category": "irregular_verbs",
+        "en": "Класть (положить)",
+        "ru": "lay - laid - laid",
+        "imageUrl": "https://placehold.co/400x300?text=lay"
+    },
+    {
+        "id": 551,
+        "category": "irregular_verbs",
+        "en": "Вести / Руководить",
+        "ru": "lead - led - led",
+        "imageUrl": "https://placehold.co/400x300?text=lead"
+    },
+    {
+        "id": 552,
+        "category": "irregular_verbs",
+        "en": "Учить(ся) / Узнавать",
+        "ru": "learn - learnt - learnt",
+        "imageUrl": "https://placehold.co/400x300?text=learn"
+    },
+    {
+        "id": 553,
+        "category": "irregular_verbs",
+        "en": "Покидать / Оставлять",
+        "ru": "leave - left - left",
+        "imageUrl": "https://placehold.co/400x300?text=leave"
+    },
+    {
+        "id": 554,
+        "category": "irregular_verbs",
+        "en": "Одалживать",
+        "ru": "lend - lent - lent",
+        "imageUrl": "https://placehold.co/400x300?text=lend"
+    },
+    {
+        "id": 555,
+        "category": "irregular_verbs",
+        "en": "Позволять",
+        "ru": "let - let - let",
+        "imageUrl": "https://placehold.co/400x300?text=let"
+    },
+    {
+        "id": 556,
+        "category": "irregular_verbs",
+        "en": "Лежать",
+        "ru": "lie - lay - lain",
+        "imageUrl": "https://placehold.co/400x300?text=lie"
+    },
+    {
+        "id": 557,
+        "category": "irregular_verbs",
+        "en": "Зажигать / Освещать",
+        "ru": "light - lit - lit",
+        "imageUrl": "https://placehold.co/400x300?text=light"
+    },
+    {
+        "id": 558,
+        "category": "irregular_verbs",
+        "en": "Терять",
+        "ru": "lose - lost - lost",
+        "imageUrl": "https://placehold.co/400x300?text=lose"
+    },
+    {
+        "id": 559,
+        "category": "irregular_verbs",
+        "en": "Делать / Создавать",
+        "ru": "make - made - made",
+        "imageUrl": "https://placehold.co/400x300?text=make"
+    },
+    {
+        "id": 560,
+        "category": "irregular_verbs",
+        "en": "Значить / Иметь в виду",
+        "ru": "mean - meant - meant",
+        "imageUrl": "https://placehold.co/400x300?text=mean"
+    },
+    {
+        "id": 561,
+        "category": "irregular_verbs",
+        "en": "Встречать / Знакомиться",
+        "ru": "meet - met - met",
+        "imageUrl": "https://placehold.co/400x300?text=meet"
+    },
+    {
+        "id": 562,
+        "category": "irregular_verbs",
+        "en": "Платить",
+        "ru": "pay - paid - paid",
+        "imageUrl": "https://placehold.co/400x300?text=pay"
+    },
+    {
+        "id": 563,
+        "category": "irregular_verbs",
+        "en": "Ставить / Класть",
+        "ru": "put - put - put",
+        "imageUrl": "https://placehold.co/400x300?text=put"
+    },
+    {
+        "id": 564,
+        "category": "irregular_verbs",
+        "en": "Читать",
+        "ru": "read - read - read",
+        "imageUrl": "https://placehold.co/400x300?text=read"
+    },
+    {
+        "id": 565,
+        "category": "irregular_verbs",
+        "en": "Ездить верхом / Кататься",
+        "ru": "ride - rode - ridden",
+        "imageUrl": "https://placehold.co/400x300?text=ride"
+    },
+    {
+        "id": 566,
+        "category": "irregular_verbs",
+        "en": "Звонить / Звенеть",
+        "ru": "ring - rang - rung",
+        "imageUrl": "https://placehold.co/400x300?text=ring"
+    },
+    {
+        "id": 567,
+        "category": "irregular_verbs",
+        "en": "Подниматься / Восходить",
+        "ru": "rise - rose - risen",
+        "imageUrl": "https://placehold.co/400x300?text=rise"
+    },
+    {
+        "id": 568,
+        "category": "irregular_verbs",
+        "en": "Бежать",
+        "ru": "run - ran - run",
+        "imageUrl": "https://placehold.co/400x300?text=run"
+    },
+    {
+        "id": 569,
+        "category": "irregular_verbs",
+        "en": "Сказать / Говорить",
+        "ru": "say - said - said",
+        "imageUrl": "https://placehold.co/400x300?text=say"
+    },
+    {
+        "id": 570,
+        "category": "irregular_verbs",
+        "en": "Видеть",
+        "ru": "see - saw - seen",
+        "imageUrl": "https://placehold.co/400x300?text=see"
+    },
+    {
+        "id": 571,
+        "category": "irregular_verbs",
+        "en": "Искать",
+        "ru": "seek - sought - sought",
+        "imageUrl": "https://placehold.co/400x300?text=seek"
+    },
+    {
+        "id": 572,
+        "category": "irregular_verbs",
+        "en": "Продавать",
+        "ru": "sell - sold - sold",
+        "imageUrl": "https://placehold.co/400x300?text=sell"
+    },
+    {
+        "id": 573,
+        "category": "irregular_verbs",
+        "en": "Отправлять",
+        "ru": "send - sent - sent",
+        "imageUrl": "https://placehold.co/400x300?text=send"
+    },
+    {
+        "id": 574,
+        "category": "irregular_verbs",
+        "en": "Устанавливать",
+        "ru": "set - set - set",
+        "imageUrl": "https://placehold.co/400x300?text=set"
+    },
+    {
+        "id": 575,
+        "category": "irregular_verbs",
+        "en": "Трясти",
+        "ru": "shake - shook - shaken",
+        "imageUrl": "https://placehold.co/400x300?text=shake"
+    },
+    {
+        "id": 576,
+        "category": "irregular_verbs",
+        "en": "Светить",
+        "ru": "shine - shone - shone",
+        "imageUrl": "https://placehold.co/400x300?text=shine"
+    },
+    {
+        "id": 577,
+        "category": "irregular_verbs",
+        "en": "Стрелять",
+        "ru": "shoot - shot - shot",
+        "imageUrl": "https://placehold.co/400x300?text=shoot"
+    },
+    {
+        "id": 578,
+        "category": "irregular_verbs",
+        "en": "Показывать",
+        "ru": "show - showed - shown",
+        "imageUrl": "https://placehold.co/400x300?text=show"
+    },
+    {
+        "id": 579,
+        "category": "irregular_verbs",
+        "en": "Закрывать",
+        "ru": "shut - shut - shut",
+        "imageUrl": "https://placehold.co/400x300?text=shut"
+    },
+    {
+        "id": 580,
+        "category": "irregular_verbs",
+        "en": "Петь",
+        "ru": "sing - sang - sung",
+        "imageUrl": "https://placehold.co/400x300?text=sing"
+    },
+    {
+        "id": 581,
+        "category": "irregular_verbs",
+        "en": "Тонуть",
+        "ru": "sink - sank - sunk",
+        "imageUrl": "https://placehold.co/400x300?text=sink"
+    },
+    {
+        "id": 582,
+        "category": "irregular_verbs",
+        "en": "Сидеть",
+        "ru": "sit - sat - sat",
+        "imageUrl": "https://placehold.co/400x300?text=sit"
+    },
+    {
+        "id": 583,
+        "category": "irregular_verbs",
+        "en": "Спать",
+        "ru": "sleep - slept - slept",
+        "imageUrl": "https://placehold.co/400x300?text=sleep"
+    },
+    {
+        "id": 584,
+        "category": "irregular_verbs",
+        "en": "Скользить",
+        "ru": "slide - slid - slid",
+        "imageUrl": "https://placehold.co/400x300?text=slide"
+    },
+    {
+        "id": 585,
+        "category": "irregular_verbs",
+        "en": "Говорить (разговаривать)",
+        "ru": "speak - spoke - spoken",
+        "imageUrl": "https://placehold.co/400x300?text=speak"
+    },
+    {
+        "id": 586,
+        "category": "irregular_verbs",
+        "en": "Тратить / Проводить время",
+        "ru": "spend - spent - spent",
+        "imageUrl": "https://placehold.co/400x300?text=spend"
+    },
+    {
+        "id": 587,
+        "category": "irregular_verbs",
+        "en": "Стоять",
+        "ru": "stand - stood - stood",
+        "imageUrl": "https://placehold.co/400x300?text=stand"
+    },
+    {
+        "id": 588,
+        "category": "irregular_verbs",
+        "en": "Воровать / Красть",
+        "ru": "steal - stole - stolen",
+        "imageUrl": "https://placehold.co/400x300?text=steal"
+    },
+    {
+        "id": 589,
+        "category": "irregular_verbs",
+        "en": "Прилипать / Застревать",
+        "ru": "stick - stuck - stuck",
+        "imageUrl": "https://placehold.co/400x300?text=stick"
+    },
+    {
+        "id": 590,
+        "category": "irregular_verbs",
+        "en": "Ударять / Бастовать",
+        "ru": "strike - struck - struck",
+        "imageUrl": "https://placehold.co/400x300?text=strike"
+    },
+    {
+        "id": 591,
+        "category": "irregular_verbs",
+        "en": "Клясться",
+        "ru": "swear - swore - sworn",
+        "imageUrl": "https://placehold.co/400x300?text=swear"
+    },
+    {
+        "id": 592,
+        "category": "irregular_verbs",
+        "en": "Подметать",
+        "ru": "sweep - swept - swept",
+        "imageUrl": "https://placehold.co/400x300?text=sweep"
+    },
+    {
+        "id": 593,
+        "category": "irregular_verbs",
+        "en": "Плавать",
+        "ru": "swim - swam - swum",
+        "imageUrl": "https://placehold.co/400x300?text=swim"
+    },
+    {
+        "id": 594,
+        "category": "irregular_verbs",
+        "en": "Брать",
+        "ru": "take - took - taken",
+        "imageUrl": "https://placehold.co/400x300?text=take"
+    },
+    {
+        "id": 595,
+        "category": "irregular_verbs",
+        "en": "Учить (кого-то)",
+        "ru": "teach - taught - taught",
+        "imageUrl": "https://placehold.co/400x300?text=teach"
+    },
+    {
+        "id": 596,
+        "category": "irregular_verbs",
+        "en": "Рвать",
+        "ru": "tear - tore - torn",
+        "imageUrl": "https://placehold.co/400x300?text=tear"
+    },
+    {
+        "id": 597,
+        "category": "irregular_verbs",
+        "en": "Рассказывать",
+        "ru": "tell - told - told",
+        "imageUrl": "https://placehold.co/400x300?text=tell"
+    },
+    {
+        "id": 598,
+        "category": "irregular_verbs",
+        "en": "Думать",
+        "ru": "think - thought - thought",
+        "imageUrl": "https://placehold.co/400x300?text=think"
+    },
+    {
+        "id": 599,
+        "category": "irregular_verbs",
+        "en": "Бросать",
+        "ru": "throw - threw - thrown",
+        "imageUrl": "https://placehold.co/400x300?text=throw"
+    },
+    {
+        "id": 600,
+        "category": "irregular_verbs",
+        "en": "Понимать",
+        "ru": "understand - understood - understood",
+        "imageUrl": "https://placehold.co/400x300?text=understand"
+    },
+    {
+        "id": 601,
+        "category": "irregular_verbs",
+        "en": "Будить / Просыпаться",
+        "ru": "wake - woke - woken",
+        "imageUrl": "https://placehold.co/400x300?text=wake"
+    },
+    {
+        "id": 602,
+        "category": "irregular_verbs",
+        "en": "Носить (одежду)",
+        "ru": "wear - wore - worn",
+        "imageUrl": "https://placehold.co/400x300?text=wear"
+    },
+    {
+        "id": 603,
+        "category": "irregular_verbs",
+        "en": "Побеждать / Выигрывать",
+        "ru": "win - won - won",
+        "imageUrl": "https://placehold.co/400x300?text=win"
+    },
+    {
+        "id": 604,
+        "category": "irregular_verbs",
+        "en": "Писать",
+        "ru": "write - wrote - written",
+        "imageUrl": "https://placehold.co/400x300?text=write"
+    },
+    {
+        "id": 605,
+        "category": "regular_verbs",
+        "en": "Принимать",
+        "ru": "accept - accepted - accepted",
+        "imageUrl": "https://placehold.co/400x300?text=accept"
+    },
+    {
+        "id": 606,
+        "category": "regular_verbs",
+        "en": "Достигать",
+        "ru": "achieve - achieved - achieved",
+        "imageUrl": "https://placehold.co/400x300?text=achieve"
+    },
+    {
+        "id": 607,
+        "category": "regular_verbs",
+        "en": "Действовать",
+        "ru": "act - acted - acted",
+        "imageUrl": "https://placehold.co/400x300?text=act"
+    },
+    {
+        "id": 608,
+        "category": "regular_verbs",
+        "en": "Восхищаться",
+        "ru": "admire - admired - admired",
+        "imageUrl": "https://placehold.co/400x300?text=admire"
+    },
+    {
+        "id": 609,
+        "category": "regular_verbs",
+        "en": "Признавать",
+        "ru": "admit - admitted - admitted",
+        "imageUrl": "https://placehold.co/400x300?text=admit"
+    },
+    {
+        "id": 610,
+        "category": "regular_verbs",
+        "en": "Советовать",
+        "ru": "advise - advised - advised",
+        "imageUrl": "https://placehold.co/400x300?text=advise"
+    },
+    {
+        "id": 611,
+        "category": "regular_verbs",
+        "en": "Влиять",
+        "ru": "affect - affected - affected",
+        "imageUrl": "https://placehold.co/400x300?text=affect"
+    },
+    {
+        "id": 612,
+        "category": "regular_verbs",
+        "en": "Соглашаться",
+        "ru": "agree - agreed - agreed",
+        "imageUrl": "https://placehold.co/400x300?text=agree"
+    },
+    {
+        "id": 613,
+        "category": "regular_verbs",
+        "en": "Целиться / Стремиться",
+        "ru": "aim - aimed - aimed",
+        "imageUrl": "https://placehold.co/400x300?text=aim"
+    },
+    {
+        "id": 614,
+        "category": "regular_verbs",
+        "en": "Отвечать",
+        "ru": "answer - answered - answered",
+        "imageUrl": "https://placehold.co/400x300?text=answer"
+    },
+    {
+        "id": 615,
+        "category": "regular_verbs",
+        "en": "Появляться",
+        "ru": "appear - appeared - appeared",
+        "imageUrl": "https://placehold.co/400x300?text=appear"
+    },
+    {
+        "id": 616,
+        "category": "regular_verbs",
+        "en": "Применять / Подавать заявку",
+        "ru": "apply - applied - applied",
+        "imageUrl": "https://placehold.co/400x300?text=apply"
+    },
+    {
+        "id": 617,
+        "category": "regular_verbs",
+        "en": "Спорить",
+        "ru": "argue - argued - argued",
+        "imageUrl": "https://placehold.co/400x300?text=argue"
+    },
+    {
+        "id": 618,
+        "category": "regular_verbs",
+        "en": "Прибывать",
+        "ru": "arrive - arrived - arrived",
+        "imageUrl": "https://placehold.co/400x300?text=arrive"
+    },
+    {
+        "id": 619,
+        "category": "regular_verbs",
+        "en": "Атаковать",
+        "ru": "attack - attacked - attacked",
+        "imageUrl": "https://placehold.co/400x300?text=attack"
+    },
+    {
+        "id": 620,
+        "category": "regular_verbs",
+        "en": "Пытаться",
+        "ru": "attempt - attempted - attempted",
+        "imageUrl": "https://placehold.co/400x300?text=attempt"
+    },
+    {
+        "id": 621,
+        "category": "regular_verbs",
+        "en": "Посещать",
+        "ru": "attend - attended - attended",
+        "imageUrl": "https://placehold.co/400x300?text=attend"
+    },
+    {
+        "id": 622,
+        "category": "regular_verbs",
+        "en": "Привлекать",
+        "ru": "attract - attracted - attracted",
+        "imageUrl": "https://placehold.co/400x300?text=attract"
+    },
+    {
+        "id": 623,
+        "category": "regular_verbs",
+        "en": "Избегать",
+        "ru": "avoid - avoided - avoided",
+        "imageUrl": "https://placehold.co/400x300?text=avoid"
+    },
+    {
+        "id": 624,
+        "category": "regular_verbs",
+        "en": "Печь",
+        "ru": "bake - baked - baked",
+        "imageUrl": "https://placehold.co/400x300?text=bake"
+    },
+    {
+        "id": 625,
+        "category": "regular_verbs",
+        "en": "Балансировать",
+        "ru": "balance - balanced - balanced",
+        "imageUrl": "https://placehold.co/400x300?text=balance"
+    },
+    {
+        "id": 626,
+        "category": "regular_verbs",
+        "en": "Запрещать",
+        "ru": "ban - banned - banned",
+        "imageUrl": "https://placehold.co/400x300?text=ban"
+    },
+    {
+        "id": 627,
+        "category": "regular_verbs",
+        "en": "Основываться",
+        "ru": "base - based - based",
+        "imageUrl": "https://placehold.co/400x300?text=base"
+    },
+    {
+        "id": 628,
+        "category": "regular_verbs",
+        "en": "Умолять",
+        "ru": "beg - begged - begged",
+        "imageUrl": "https://placehold.co/400x300?text=beg"
+    },
+    {
+        "id": 629,
+        "category": "regular_verbs",
+        "en": "Вести себя",
+        "ru": "behave - behaved - behaved",
+        "imageUrl": "https://placehold.co/400x300?text=behave"
+    },
+    {
+        "id": 630,
+        "category": "regular_verbs",
+        "en": "Принадлежать",
+        "ru": "belong - belonged - belonged",
+        "imageUrl": "https://placehold.co/400x300?text=belong"
+    },
+    {
+        "id": 631,
+        "category": "regular_verbs",
+        "en": "Винить",
+        "ru": "blame - blamed - blamed",
+        "imageUrl": "https://placehold.co/400x300?text=blame"
+    },
+    {
+        "id": 632,
+        "category": "regular_verbs",
+        "en": "Блокировать",
+        "ru": "block - blocked - blocked",
+        "imageUrl": "https://placehold.co/400x300?text=block"
+    },
+    {
+        "id": 633,
+        "category": "regular_verbs",
+        "en": "Кипятить",
+        "ru": "boil - boiled - boiled",
+        "imageUrl": "https://placehold.co/400x300?text=boil"
+    },
+    {
+        "id": 634,
+        "category": "regular_verbs",
+        "en": "Бронировать",
+        "ru": "book - booked - booked",
+        "imageUrl": "https://placehold.co/400x300?text=book"
+    },
+    {
+        "id": 635,
+        "category": "regular_verbs",
+        "en": "Занимать (в долг)",
+        "ru": "borrow - borrowed - borrowed",
+        "imageUrl": "https://placehold.co/400x300?text=borrow"
+    },
+    {
+        "id": 636,
+        "category": "regular_verbs",
+        "en": "Беспокоить",
+        "ru": "bother - bothered - bothered",
+        "imageUrl": "https://placehold.co/400x300?text=bother"
+    },
+    {
+        "id": 637,
+        "category": "regular_verbs",
+        "en": "Отскакивать",
+        "ru": "bounce - bounced - bounced",
+        "imageUrl": "https://placehold.co/400x300?text=bounce"
+    },
+    {
+        "id": 638,
+        "category": "regular_verbs",
+        "en": "Кланяться",
+        "ru": "bow - bowed - bowed",
+        "imageUrl": "https://placehold.co/400x300?text=bow"
+    },
+    {
+        "id": 639,
+        "category": "regular_verbs",
+        "en": "Чистить (щеткой)",
+        "ru": "brush - brushed - brushed",
+        "imageUrl": "https://placehold.co/400x300?text=brush"
+    },
+    {
+        "id": 640,
+        "category": "regular_verbs",
+        "en": "Вычислять",
+        "ru": "calculate - calculated - calculated",
+        "imageUrl": "https://placehold.co/400x300?text=calculate"
+    },
+    {
+        "id": 641,
+        "category": "regular_verbs",
+        "en": "Разбивать лагерь",
+        "ru": "camp - camped - camped",
+        "imageUrl": "https://placehold.co/400x300?text=camp"
+    },
+    {
+        "id": 642,
+        "category": "regular_verbs",
+        "en": "Заботиться",
+        "ru": "care - cared - cared",
+        "imageUrl": "https://placehold.co/400x300?text=care"
+    },
+    {
+        "id": 643,
+        "category": "regular_verbs",
+        "en": "Нести",
+        "ru": "carry - carried - carried",
+        "imageUrl": "https://placehold.co/400x300?text=carry"
+    },
+    {
+        "id": 644,
+        "category": "regular_verbs",
+        "en": "Быть причиной",
+        "ru": "cause - caused - caused",
+        "imageUrl": "https://placehold.co/400x300?text=cause"
+    },
+    {
+        "id": 645,
+        "category": "regular_verbs",
+        "en": "Бросать вызов",
+        "ru": "challenge - challenged - challenged",
+        "imageUrl": "https://placehold.co/400x300?text=challenge"
+    },
+    {
+        "id": 646,
+        "category": "regular_verbs",
+        "en": "Заряжать",
+        "ru": "charge - charged - charged",
+        "imageUrl": "https://placehold.co/400x300?text=charge"
+    },
+    {
+        "id": 647,
+        "category": "regular_verbs",
+        "en": "Преследовать",
+        "ru": "chase - chased - chased",
+        "imageUrl": "https://placehold.co/400x300?text=chase"
+    },
+    {
+        "id": 648,
+        "category": "regular_verbs",
+        "en": "Болтать",
+        "ru": "chat - chatted - chatted",
+        "imageUrl": "https://placehold.co/400x300?text=chat"
+    },
+    {
+        "id": 649,
+        "category": "regular_verbs",
+        "en": "Обманывать",
+        "ru": "cheat - cheated - cheated",
+        "imageUrl": "https://placehold.co/400x300?text=cheat"
+    },
+    {
+        "id": 650,
+        "category": "regular_verbs",
+        "en": "Проверять",
+        "ru": "check - checked - checked",
+        "imageUrl": "https://placehold.co/400x300?text=check"
+    },
+    {
+        "id": 651,
+        "category": "regular_verbs",
+        "en": "Подбадривать",
+        "ru": "cheer - cheered - cheered",
+        "imageUrl": "https://placehold.co/400x300?text=cheer"
+    },
+    {
+        "id": 652,
+        "category": "regular_verbs",
+        "en": "Жевать",
+        "ru": "chew - chewed - chewed",
+        "imageUrl": "https://placehold.co/400x300?text=chew"
+    },
+    {
+        "id": 653,
+        "category": "regular_verbs",
+        "en": "Заявлять / Требовать",
+        "ru": "claim - claimed - claimed",
+        "imageUrl": "https://placehold.co/400x300?text=claim"
+    },
+    {
+        "id": 654,
+        "category": "regular_verbs",
+        "en": "Очищать",
+        "ru": "clear - cleared - cleared",
+        "imageUrl": "https://placehold.co/400x300?text=clear"
+    },
+    {
+        "id": 655,
+        "category": "regular_verbs",
+        "en": "Взбираться",
+        "ru": "climb - climbed - climbed",
+        "imageUrl": "https://placehold.co/400x300?text=climb"
+    },
+    {
+        "id": 656,
+        "category": "regular_verbs",
+        "en": "Собирать",
+        "ru": "collect - collected - collected",
+        "imageUrl": "https://placehold.co/400x300?text=collect"
+    },
+    {
+        "id": 657,
+        "category": "regular_verbs",
+        "en": "Раскрашивать",
+        "ru": "color - colored - colored",
+        "imageUrl": "https://placehold.co/400x300?text=color"
+    },
+    {
+        "id": 658,
+        "category": "regular_verbs",
+        "en": "Расчесывать",
+        "ru": "comb - combed - combed",
+        "imageUrl": "https://placehold.co/400x300?text=comb"
+    },
+    {
+        "id": 659,
+        "category": "regular_verbs",
+        "en": "Сравнивать",
+        "ru": "compare - compared - compared",
+        "imageUrl": "https://placehold.co/400x300?text=compare"
+    },
+    {
+        "id": 660,
+        "category": "regular_verbs",
+        "en": "Жаловаться",
+        "ru": "complain - complained - complained",
+        "imageUrl": "https://placehold.co/400x300?text=complain"
+    },
+    {
+        "id": 661,
+        "category": "regular_verbs",
+        "en": "Завершать",
+        "ru": "complete - completed - completed",
+        "imageUrl": "https://placehold.co/400x300?text=complete"
+    },
+    {
+        "id": 662,
+        "category": "regular_verbs",
+        "en": "Соединять",
+        "ru": "connect - connected - connected",
+        "imageUrl": "https://placehold.co/400x300?text=connect"
+    },
+    {
+        "id": 663,
+        "category": "regular_verbs",
+        "en": "Рассматривать",
+        "ru": "consider - considered - considered",
+        "imageUrl": "https://placehold.co/400x300?text=consider"
+    },
+    {
+        "id": 664,
+        "category": "regular_verbs",
+        "en": "Состоять",
+        "ru": "consist - consisted - consisted",
+        "imageUrl": "https://placehold.co/400x300?text=consist"
+    },
+    {
+        "id": 665,
+        "category": "regular_verbs",
+        "en": "Содержать",
+        "ru": "contain - contained - contained",
+        "imageUrl": "https://placehold.co/400x300?text=contain"
+    },
+    {
+        "id": 666,
+        "category": "regular_verbs",
+        "en": "Готовить еду",
+        "ru": "cook - cooked - cooked",
+        "imageUrl": "https://placehold.co/400x300?text=cook"
+    },
+    {
+        "id": 667,
+        "category": "regular_verbs",
+        "en": "Копировать",
+        "ru": "copy - copied - copied",
+        "imageUrl": "https://placehold.co/400x300?text=copy"
+    },
+    {
+        "id": 668,
+        "category": "regular_verbs",
+        "en": "Исправлять",
+        "ru": "correct - corrected - corrected",
+        "imageUrl": "https://placehold.co/400x300?text=correct"
+    },
+    {
+        "id": 669,
+        "category": "regular_verbs",
+        "en": "Считать",
+        "ru": "count - counted - counted",
+        "imageUrl": "https://placehold.co/400x300?text=count"
+    },
+    {
+        "id": 670,
+        "category": "regular_verbs",
+        "en": "Накрывать",
+        "ru": "cover - covered - covered",
+        "imageUrl": "https://placehold.co/400x300?text=cover"
+    },
+    {
+        "id": 671,
+        "category": "regular_verbs",
+        "en": "Разбить(ся)",
+        "ru": "crash - crashed - crashed",
+        "imageUrl": "https://placehold.co/400x300?text=crash"
+    },
+    {
+        "id": 672,
+        "category": "regular_verbs",
+        "en": "Пересекать",
+        "ru": "cross - crossed - crossed",
+        "imageUrl": "https://placehold.co/400x300?text=cross"
+    },
+    {
+        "id": 673,
+        "category": "regular_verbs",
+        "en": "Повреждать",
+        "ru": "damage - damaged - damaged",
+        "imageUrl": "https://placehold.co/400x300?text=damage"
+    },
+    {
+        "id": 674,
+        "category": "regular_verbs",
+        "en": "Решать (принимать решение)",
+        "ru": "decide - decided - decided",
+        "imageUrl": "https://placehold.co/400x300?text=decide"
+    },
+    {
+        "id": 675,
+        "category": "regular_verbs",
+        "en": "Заявлять",
+        "ru": "declare - declared - declared",
+        "imageUrl": "https://placehold.co/400x300?text=declare"
+    },
+    {
+        "id": 676,
+        "category": "regular_verbs",
+        "en": "Украшать",
+        "ru": "decorate - decorated - decorated",
+        "imageUrl": "https://placehold.co/400x300?text=decorate"
+    },
+    {
+        "id": 677,
+        "category": "regular_verbs",
+        "en": "Задерживать",
+        "ru": "delay - delayed - delayed",
+        "imageUrl": "https://placehold.co/400x300?text=delay"
+    },
+    {
+        "id": 678,
+        "category": "regular_verbs",
+        "en": "Удалять",
+        "ru": "delete - deleted - deleted",
+        "imageUrl": "https://placehold.co/400x300?text=delete"
+    },
+    {
+        "id": 679,
+        "category": "regular_verbs",
+        "en": "Доставлять",
+        "ru": "deliver - delivered - delivered",
+        "imageUrl": "https://placehold.co/400x300?text=deliver"
+    },
+    {
+        "id": 680,
+        "category": "regular_verbs",
+        "en": "Зависеть",
+        "ru": "depend - depended - depended",
+        "imageUrl": "https://placehold.co/400x300?text=depend"
+    },
+    {
+        "id": 681,
+        "category": "regular_verbs",
+        "en": "Описывать",
+        "ru": "describe - described - described",
+        "imageUrl": "https://placehold.co/400x300?text=describe"
+    },
+    {
+        "id": 682,
+        "category": "regular_verbs",
+        "en": "Заслуживать",
+        "ru": "deserve - deserved - deserved",
+        "imageUrl": "https://placehold.co/400x300?text=deserve"
+    },
+    {
+        "id": 683,
+        "category": "regular_verbs",
+        "en": "Проектировать",
+        "ru": "design - designed - designed",
+        "imageUrl": "https://placehold.co/400x300?text=design"
+    },
+    {
+        "id": 684,
+        "category": "regular_verbs",
+        "en": "Разрушать",
+        "ru": "destroy - destroyed - destroyed",
+        "imageUrl": "https://placehold.co/400x300?text=destroy"
+    },
+    {
+        "id": 685,
+        "category": "regular_verbs",
+        "en": "Развивать",
+        "ru": "develop - developed - developed",
+        "imageUrl": "https://placehold.co/400x300?text=develop"
+    },
+    {
+        "id": 686,
+        "category": "regular_verbs",
+        "en": "Умирать",
+        "ru": "die - died - died",
+        "imageUrl": "https://placehold.co/400x300?text=die"
+    },
+    {
+        "id": 687,
+        "category": "regular_verbs",
+        "en": "Не соглашаться",
+        "ru": "disagree - disagreed - disagreed",
+        "imageUrl": "https://placehold.co/400x300?text=disagree"
+    },
+    {
+        "id": 688,
+        "category": "regular_verbs",
+        "en": "Исчезать",
+        "ru": "disappear - disappeared - disappeared",
+        "imageUrl": "https://placehold.co/400x300?text=disappear"
+    },
+    {
+        "id": 689,
+        "category": "regular_verbs",
+        "en": "Открывать (находить)",
+        "ru": "discover - discovered - discovered",
+        "imageUrl": "https://placehold.co/400x300?text=discover"
+    },
+    {
+        "id": 690,
+        "category": "regular_verbs",
+        "en": "Обсуждать",
+        "ru": "discuss - discussed - discussed",
+        "imageUrl": "https://placehold.co/400x300?text=discuss"
+    },
+    {
+        "id": 691,
+        "category": "regular_verbs",
+        "en": "Делить",
+        "ru": "divide - divided - divided",
+        "imageUrl": "https://placehold.co/400x300?text=divide"
+    },
+    {
+        "id": 692,
+        "category": "regular_verbs",
+        "en": "Сомневаться",
+        "ru": "doubt - doubted - doubted",
+        "imageUrl": "https://placehold.co/400x300?text=doubt"
+    },
+    {
+        "id": 693,
+        "category": "regular_verbs",
+        "en": "Ронять",
+        "ru": "drop - dropped - dropped",
+        "imageUrl": "https://placehold.co/400x300?text=drop"
+    },
+    {
+        "id": 694,
+        "category": "regular_verbs",
+        "en": "Сушить",
+        "ru": "dry - dried - dried",
+        "imageUrl": "https://placehold.co/400x300?text=dry"
+    },
+    {
+        "id": 695,
+        "category": "regular_verbs",
+        "en": "Зарабатывать",
+        "ru": "earn - earned - earned",
+        "imageUrl": "https://placehold.co/400x300?text=earn"
+    },
+    {
+        "id": 696,
+        "category": "regular_verbs",
+        "en": "Обучать",
+        "ru": "educate - educated - educated",
+        "imageUrl": "https://placehold.co/400x300?text=educate"
+    },
+    {
+        "id": 697,
+        "category": "regular_verbs",
+        "en": "Нанимать",
+        "ru": "employ - employed - employed",
+        "imageUrl": "https://placehold.co/400x300?text=employ"
+    },
+    {
+        "id": 698,
+        "category": "regular_verbs",
+        "en": "Опустошать",
+        "ru": "empty - emptied - emptied",
+        "imageUrl": "https://placehold.co/400x300?text=empty"
+    },
+    {
+        "id": 699,
+        "category": "regular_verbs",
+        "en": "Поощрять",
+        "ru": "encourage - encouraged - encouraged",
+        "imageUrl": "https://placehold.co/400x300?text=encourage"
+    },
+    {
+        "id": 700,
+        "category": "regular_verbs",
+        "en": "Наслаждаться",
+        "ru": "enjoy - enjoyed - enjoyed",
+        "imageUrl": "https://placehold.co/400x300?text=enjoy"
+    },
+    {
+        "id": 701,
+        "category": "regular_verbs",
+        "en": "Входить",
+        "ru": "enter - entered - entered",
+        "imageUrl": "https://placehold.co/400x300?text=enter"
+    },
+    {
+        "id": 702,
+        "category": "regular_verbs",
+        "en": "Развлекать",
+        "ru": "entertain - entertained - entertained",
+        "imageUrl": "https://placehold.co/400x300?text=entertain"
+    },
+    {
+        "id": 703,
+        "category": "regular_verbs",
+        "en": "Сбегать",
+        "ru": "escape - escaped - escaped",
+        "imageUrl": "https://placehold.co/400x300?text=escape"
+    },
+    {
+        "id": 704,
+        "category": "regular_verbs",
+        "en": "Осматривать",
+        "ru": "examine - examined - examined",
+        "imageUrl": "https://placehold.co/400x300?text=examine"
+    },
+    {
+        "id": 705,
+        "category": "regular_verbs",
+        "en": "Обменивать",
+        "ru": "exchange - exchanged - exchanged",
+        "imageUrl": "https://placehold.co/400x300?text=exchange"
+    },
+    {
+        "id": 706,
+        "category": "regular_verbs",
+        "en": "Волновать / Возбуждать",
+        "ru": "excite - excited - excited",
+        "imageUrl": "https://placehold.co/400x300?text=excite"
+    },
+    {
+        "id": 707,
+        "category": "regular_verbs",
+        "en": "Извинять",
+        "ru": "excuse - excused - excused",
+        "imageUrl": "https://placehold.co/400x300?text=excuse"
+    },
+    {
+        "id": 708,
+        "category": "regular_verbs",
+        "en": "Тренироваться",
+        "ru": "exercise - exercised - exercised",
+        "imageUrl": "https://placehold.co/400x300?text=exercise"
+    },
+    {
+        "id": 709,
+        "category": "regular_verbs",
+        "en": "Существовать",
+        "ru": "exist - existed - existed",
+        "imageUrl": "https://placehold.co/400x300?text=exist"
+    },
+    {
+        "id": 710,
+        "category": "regular_verbs",
+        "en": "Расширять",
+        "ru": "expand - expanded - expanded",
+        "imageUrl": "https://placehold.co/400x300?text=expand"
+    },
+    {
+        "id": 711,
+        "category": "regular_verbs",
+        "en": "Ожидать",
+        "ru": "expect - expected - expected",
+        "imageUrl": "https://placehold.co/400x300?text=expect"
+    },
+    {
+        "id": 712,
+        "category": "regular_verbs",
+        "en": "Объяснять",
+        "ru": "explain - explained - explained",
+        "imageUrl": "https://placehold.co/400x300?text=explain"
+    },
+    {
+        "id": 713,
+        "category": "regular_verbs",
+        "en": "Исследовать",
+        "ru": "explore - explored - explored",
+        "imageUrl": "https://placehold.co/400x300?text=explore"
+    },
+    {
+        "id": 714,
+        "category": "regular_verbs",
+        "en": "Выражать",
+        "ru": "express - expressed - expressed",
+        "imageUrl": "https://placehold.co/400x300?text=express"
+    },
+    {
+        "id": 715,
+        "category": "regular_verbs",
+        "en": "Потерпеть неудачу",
+        "ru": "fail - failed - failed",
+        "imageUrl": "https://placehold.co/400x300?text=fail"
+    },
+    {
+        "id": 716,
+        "category": "regular_verbs",
+        "en": "Воображать / Нравиться",
+        "ru": "fancy - fancied - fancied",
+        "imageUrl": "https://placehold.co/400x300?text=fancy"
+    },
+    {
+        "id": 717,
+        "category": "regular_verbs",
+        "en": "Пристегивать",
+        "ru": "fasten - fastened - fastened",
+        "imageUrl": "https://placehold.co/400x300?text=fasten"
+    },
+    {
+        "id": 718,
+        "category": "regular_verbs",
+        "en": "Бояться",
+        "ru": "fear - feared - feared",
+        "imageUrl": "https://placehold.co/400x300?text=fear"
+    },
+    {
+        "id": 719,
+        "category": "regular_verbs",
+        "en": "Наполнять",
+        "ru": "fill - filled - filled",
+        "imageUrl": "https://placehold.co/400x300?text=fill"
+    },
+    {
+        "id": 720,
+        "category": "regular_verbs",
+        "en": "Снимать фильм",
+        "ru": "film - filmed - filmed",
+        "imageUrl": "https://placehold.co/400x300?text=film"
+    },
+    {
+        "id": 721,
+        "category": "regular_verbs",
+        "en": "Заканчивать",
+        "ru": "finish - finished - finished",
+        "imageUrl": "https://placehold.co/400x300?text=finish"
+    },
+    {
+        "id": 722,
+        "category": "regular_verbs",
+        "en": "Подходить (по размеру)",
+        "ru": "fit - fitted - fitted",
+        "imageUrl": "https://placehold.co/400x300?text=fit"
+    },
+    {
+        "id": 723,
+        "category": "regular_verbs",
+        "en": "Чинить",
+        "ru": "fix - fixed - fixed",
+        "imageUrl": "https://placehold.co/400x300?text=fix"
+    },
+    {
+        "id": 724,
+        "category": "regular_verbs",
+        "en": "Складывать",
+        "ru": "fold - folded - folded",
+        "imageUrl": "https://placehold.co/400x300?text=fold"
+    },
+    {
+        "id": 725,
+        "category": "regular_verbs",
+        "en": "Принуждать",
+        "ru": "force - forced - forced",
+        "imageUrl": "https://placehold.co/400x300?text=force"
+    },
+    {
+        "id": 726,
+        "category": "regular_verbs",
+        "en": "Формировать",
+        "ru": "form - formed - formed",
+        "imageUrl": "https://placehold.co/400x300?text=form"
+    },
+    {
+        "id": 727,
+        "category": "regular_verbs",
+        "en": "Основывать",
+        "ru": "found - founded - founded",
+        "imageUrl": "https://placehold.co/400x300?text=found"
+    },
+    {
+        "id": 728,
+        "category": "regular_verbs",
+        "en": "Обрамлять",
+        "ru": "frame - framed - framed",
+        "imageUrl": "https://placehold.co/400x300?text=frame"
+    },
+    {
+        "id": 729,
+        "category": "regular_verbs",
+        "en": "Пугать",
+        "ru": "frighten - frightened - frightened",
+        "imageUrl": "https://placehold.co/400x300?text=frighten"
+    },
+    {
+        "id": 730,
+        "category": "regular_verbs",
+        "en": "Жарить",
+        "ru": "fry - fried - fried",
+        "imageUrl": "https://placehold.co/400x300?text=fry"
+    },
+    {
+        "id": 731,
+        "category": "regular_verbs",
+        "en": "Собирать(ся)",
+        "ru": "gather - gathered - gathered",
+        "imageUrl": "https://placehold.co/400x300?text=gather"
+    },
+    {
+        "id": 732,
+        "category": "regular_verbs",
+        "en": "Приветствовать",
+        "ru": "greet - greeted - greeted",
+        "imageUrl": "https://placehold.co/400x300?text=greet"
+    },
+    {
+        "id": 733,
+        "category": "regular_verbs",
+        "en": "Угадывать",
+        "ru": "guess - guessed - guessed",
+        "imageUrl": "https://placehold.co/400x300?text=guess"
+    },
+    {
+        "id": 734,
+        "category": "regular_verbs",
+        "en": "Направлять",
+        "ru": "guide - guided - guided",
+        "imageUrl": "https://placehold.co/400x300?text=guide"
+    },
+    {
+        "id": 735,
+        "category": "regular_verbs",
+        "en": "Справляться",
+        "ru": "handle - handled - handled",
+        "imageUrl": "https://placehold.co/400x300?text=handle"
+    },
+    {
+        "id": 736,
+        "category": "regular_verbs",
+        "en": "Ненавидеть",
+        "ru": "hate - hated - hated",
+        "imageUrl": "https://placehold.co/400x300?text=hate"
+    },
+    {
+        "id": 737,
+        "category": "regular_verbs",
+        "en": "Возглавлять",
+        "ru": "head - headed - headed",
+        "imageUrl": "https://placehold.co/400x300?text=head"
+    },
+    {
+        "id": 738,
+        "category": "regular_verbs",
+        "en": "Нагревать",
+        "ru": "heat - heated - heated",
+        "imageUrl": "https://placehold.co/400x300?text=heat"
+    },
+    {
+        "id": 739,
+        "category": "regular_verbs",
+        "en": "Надеяться",
+        "ru": "hope - hoped - hoped",
+        "imageUrl": "https://placehold.co/400x300?text=hope"
+    },
+    {
+        "id": 740,
+        "category": "regular_verbs",
+        "en": "Обнимать",
+        "ru": "hug - hugged - hugged",
+        "imageUrl": "https://placehold.co/400x300?text=hug"
+    },
+    {
+        "id": 741,
+        "category": "regular_verbs",
+        "en": "Охотиться",
+        "ru": "hunt - hunted - hunted",
+        "imageUrl": "https://placehold.co/400x300?text=hunt"
+    },
+    {
+        "id": 742,
+        "category": "regular_verbs",
+        "en": "Спешить",
+        "ru": "hurry - hurried - hurried",
+        "imageUrl": "https://placehold.co/400x300?text=hurry"
+    },
+    {
+        "id": 743,
+        "category": "regular_verbs",
+        "en": "Идентифицировать",
+        "ru": "identify - identified - identified",
+        "imageUrl": "https://placehold.co/400x300?text=identify"
+    },
+    {
+        "id": 744,
+        "category": "regular_verbs",
+        "en": "Игнорировать",
+        "ru": "ignore - ignored - ignored",
+        "imageUrl": "https://placehold.co/400x300?text=ignore"
+    },
+    {
+        "id": 745,
+        "category": "regular_verbs",
+        "en": "Представлять (в уме)",
+        "ru": "imagine - imagined - imagined",
+        "imageUrl": "https://placehold.co/400x300?text=imagine"
+    },
+    {
+        "id": 746,
+        "category": "regular_verbs",
+        "en": "Впечатлять",
+        "ru": "impress - impressed - impressed",
+        "imageUrl": "https://placehold.co/400x300?text=impress"
+    },
+    {
+        "id": 747,
+        "category": "regular_verbs",
+        "en": "Улучшать",
+        "ru": "improve - improved - improved",
+        "imageUrl": "https://placehold.co/400x300?text=improve"
+    },
+    {
+        "id": 748,
+        "category": "regular_verbs",
+        "en": "Увеличивать",
+        "ru": "increase - increased - increased",
+        "imageUrl": "https://placehold.co/400x300?text=increase"
+    },
+    {
+        "id": 749,
+        "category": "regular_verbs",
+        "en": "Информировать",
+        "ru": "inform - informed - informed",
+        "imageUrl": "https://placehold.co/400x300?text=inform"
+    },
+    {
+        "id": 750,
+        "category": "regular_verbs",
+        "en": "Вводить (инъекцию)",
+        "ru": "inject - injected - injected",
+        "imageUrl": "https://placehold.co/400x300?text=inject"
+    },
+    {
+        "id": 751,
+        "category": "regular_verbs",
+        "en": "Травмировать",
+        "ru": "injure - injured - injured",
+        "imageUrl": "https://placehold.co/400x300?text=injure"
+    },
+    {
+        "id": 752,
+        "category": "regular_verbs",
+        "en": "Вставлять",
+        "ru": "insert - inserted - inserted",
+        "imageUrl": "https://placehold.co/400x300?text=insert"
+    },
+    {
+        "id": 753,
+        "category": "regular_verbs",
+        "en": "Настаивать",
+        "ru": "insist - insisted - insisted",
+        "imageUrl": "https://placehold.co/400x300?text=insist"
+    },
+    {
+        "id": 754,
+        "category": "regular_verbs",
+        "en": "Инспектировать",
+        "ru": "inspect - inspected - inspected",
+        "imageUrl": "https://placehold.co/400x300?text=inspect"
+    },
+    {
+        "id": 755,
+        "category": "regular_verbs",
+        "en": "Вдохновлять",
+        "ru": "inspire - inspired - inspired",
+        "imageUrl": "https://placehold.co/400x300?text=inspire"
+    },
+    {
+        "id": 756,
+        "category": "regular_verbs",
+        "en": "Устанавливать (программу)",
+        "ru": "install - installed - installed",
+        "imageUrl": "https://placehold.co/400x300?text=install"
+    },
+    {
+        "id": 757,
+        "category": "regular_verbs",
+        "en": "Намереваться",
+        "ru": "intend - intended - intended",
+        "imageUrl": "https://placehold.co/400x300?text=intend"
+    },
+    {
+        "id": 758,
+        "category": "regular_verbs",
+        "en": "Заинтересовывать",
+        "ru": "interest - interested - interested",
+        "imageUrl": "https://placehold.co/400x300?text=interest"
+    },
+    {
+        "id": 759,
+        "category": "regular_verbs",
+        "en": "Вмешиваться",
+        "ru": "interfere - interfered - interfered",
+        "imageUrl": "https://placehold.co/400x300?text=interfere"
+    },
+    {
+        "id": 760,
+        "category": "regular_verbs",
+        "en": "Прерывать",
+        "ru": "interrupt - interrupted - interrupted",
+        "imageUrl": "https://placehold.co/400x300?text=interrupt"
+    },
+    {
+        "id": 761,
+        "category": "regular_verbs",
+        "en": "Знакомить / Представлять",
+        "ru": "introduce - introduced - introduced",
+        "imageUrl": "https://placehold.co/400x300?text=introduce"
+    },
+    {
+        "id": 762,
+        "category": "regular_verbs",
+        "en": "Изобретать",
+        "ru": "invent - invented - invented",
+        "imageUrl": "https://placehold.co/400x300?text=invent"
+    },
+    {
+        "id": 763,
+        "category": "regular_verbs",
+        "en": "Приглашать",
+        "ru": "invite - invited - invited",
+        "imageUrl": "https://placehold.co/400x300?text=invite"
+    },
+    {
+        "id": 764,
+        "category": "regular_verbs",
+        "en": "Вовлекать",
+        "ru": "involve - involved - involved",
+        "imageUrl": "https://placehold.co/400x300?text=involve"
+    },
+    {
+        "id": 765,
+        "category": "regular_verbs",
+        "en": "Гладить (утюгом)",
+        "ru": "iron - ironed - ironed",
+        "imageUrl": "https://placehold.co/400x300?text=iron"
+    },
+    {
+        "id": 766,
+        "category": "regular_verbs",
+        "en": "Присоединяться",
+        "ru": "join - joined - joined",
+        "imageUrl": "https://placehold.co/400x300?text=join"
+    },
+    {
+        "id": 767,
+        "category": "regular_verbs",
+        "en": "Шутить",
+        "ru": "joke - joked - joked",
+        "imageUrl": "https://placehold.co/400x300?text=joke"
+    },
+    {
+        "id": 768,
+        "category": "regular_verbs",
+        "en": "Судить",
+        "ru": "judge - judged - judged",
+        "imageUrl": "https://placehold.co/400x300?text=judge"
+    },
+    {
+        "id": 769,
+        "category": "regular_verbs",
+        "en": "Пинать",
+        "ru": "kick - kicked - kicked",
+        "imageUrl": "https://placehold.co/400x300?text=kick"
+    },
+    {
+        "id": 770,
+        "category": "regular_verbs",
+        "en": "Убивать",
+        "ru": "kill - killed - killed",
+        "imageUrl": "https://placehold.co/400x300?text=kill"
+    },
+    {
+        "id": 771,
+        "category": "regular_verbs",
+        "en": "Целовать",
+        "ru": "kiss - kissed - kissed",
+        "imageUrl": "https://placehold.co/400x300?text=kiss"
+    },
+    {
+        "id": 772,
+        "category": "regular_verbs",
+        "en": "Стучать",
+        "ru": "knock - knocked - knocked",
+        "imageUrl": "https://placehold.co/400x300?text=knock"
+    },
+    {
+        "id": 773,
+        "category": "regular_verbs",
+        "en": "Помечать",
+        "ru": "label - labeled - labeled",
+        "imageUrl": "https://placehold.co/400x300?text=label"
+    },
+    {
+        "id": 774,
+        "category": "regular_verbs",
+        "en": "Испытывать недостаток",
+        "ru": "lack - lacked - lacked",
+        "imageUrl": "https://placehold.co/400x300?text=lack"
+    },
+    {
+        "id": 775,
+        "category": "regular_verbs",
+        "en": "Приземляться",
+        "ru": "land - landed - landed",
+        "imageUrl": "https://placehold.co/400x300?text=land"
+    },
+    {
+        "id": 776,
+        "category": "regular_verbs",
+        "en": "Длиться",
+        "ru": "last - lasted - lasted",
+        "imageUrl": "https://placehold.co/400x300?text=last"
+    },
+    {
+        "id": 777,
+        "category": "regular_verbs",
+        "en": "Запускать",
+        "ru": "launch - launched - launched",
+        "imageUrl": "https://placehold.co/400x300?text=launch"
+    },
+    {
+        "id": 778,
+        "category": "regular_verbs",
+        "en": "Поднимать",
+        "ru": "lift - lifted - lifted",
+        "imageUrl": "https://placehold.co/400x300?text=lift"
+    },
+    {
+        "id": 779,
+        "category": "regular_verbs",
+        "en": "Связывать",
+        "ru": "link - linked - linked",
+        "imageUrl": "https://placehold.co/400x300?text=link"
+    },
+    {
+        "id": 780,
+        "category": "regular_verbs",
+        "en": "Вносить в список",
+        "ru": "list - listed - listed",
+        "imageUrl": "https://placehold.co/400x300?text=list"
+    },
+    {
+        "id": 781,
+        "category": "regular_verbs",
+        "en": "Слушать",
+        "ru": "listen - listened - listened",
+        "imageUrl": "https://placehold.co/400x300?text=listen"
+    },
+    {
+        "id": 782,
+        "category": "regular_verbs",
+        "en": "Загружать",
+        "ru": "load - loaded - loaded",
+        "imageUrl": "https://placehold.co/400x300?text=load"
+    },
+    {
+        "id": 783,
+        "category": "regular_verbs",
+        "en": "Запирать",
+        "ru": "lock - locked - locked",
+        "imageUrl": "https://placehold.co/400x300?text=lock"
+    },
+    {
+        "id": 784,
+        "category": "regular_verbs",
+        "en": "Отправлять по почте",
+        "ru": "mail - mailed - mailed",
+        "imageUrl": "https://placehold.co/400x300?text=mail"
+    },
+    {
+        "id": 785,
+        "category": "regular_verbs",
+        "en": "Поддерживать (в состоянии)",
+        "ru": "maintain - maintained - maintained",
+        "imageUrl": "https://placehold.co/400x300?text=maintain"
+    },
+    {
+        "id": 786,
+        "category": "regular_verbs",
+        "en": "Управлять / Справляться",
+        "ru": "manage - managed - managed",
+        "imageUrl": "https://placehold.co/400x300?text=manage"
+    },
+    {
+        "id": 787,
+        "category": "regular_verbs",
+        "en": "Маршировать",
+        "ru": "march - marched - marched",
+        "imageUrl": "https://placehold.co/400x300?text=march"
+    },
+    {
+        "id": 788,
+        "category": "regular_verbs",
+        "en": "Отмечать",
+        "ru": "mark - marked - marked",
+        "imageUrl": "https://placehold.co/400x300?text=mark"
+    },
+    {
+        "id": 789,
+        "category": "regular_verbs",
+        "en": "Жениться / Выходить замуж",
+        "ru": "marry - married - married",
+        "imageUrl": "https://placehold.co/400x300?text=marry"
+    },
+    {
+        "id": 790,
+        "category": "regular_verbs",
+        "en": "Сопоставлять",
+        "ru": "match - matched - matched",
+        "imageUrl": "https://placehold.co/400x300?text=match"
+    },
+    {
+        "id": 791,
+        "category": "regular_verbs",
+        "en": "Иметь значение",
+        "ru": "matter - mattered - mattered",
+        "imageUrl": "https://placehold.co/400x300?text=matter"
+    },
+    {
+        "id": 792,
+        "category": "regular_verbs",
+        "en": "Измерять",
+        "ru": "measure - measured - measured",
+        "imageUrl": "https://placehold.co/400x300?text=measure"
+    },
+    {
+        "id": 793,
+        "category": "regular_verbs",
+        "en": "Таять",
+        "ru": "melt - melted - melted",
+        "imageUrl": "https://placehold.co/400x300?text=melt"
+    },
+    {
+        "id": 794,
+        "category": "regular_verbs",
+        "en": "Запоминать",
+        "ru": "memorize - memorized - memorized",
+        "imageUrl": "https://placehold.co/400x300?text=memorize"
+    },
+    {
+        "id": 795,
+        "category": "regular_verbs",
+        "en": "Чинить / Штопать",
+        "ru": "mend - mended - mended",
+        "imageUrl": "https://placehold.co/400x300?text=mend"
+    },
+    {
+        "id": 796,
+        "category": "regular_verbs",
+        "en": "Упоминать",
+        "ru": "mention - mentioned - mentioned",
+        "imageUrl": "https://placehold.co/400x300?text=mention"
+    },
+    {
+        "id": 797,
+        "category": "regular_verbs",
+        "en": "Возражать",
+        "ru": "mind - minded - minded",
+        "imageUrl": "https://placehold.co/400x300?text=mind"
+    },
+    {
+        "id": 798,
+        "category": "regular_verbs",
+        "en": "Скучать / Пропускать",
+        "ru": "miss - missed - missed",
+        "imageUrl": "https://placehold.co/400x300?text=miss"
+    },
+    {
+        "id": 799,
+        "category": "regular_verbs",
+        "en": "Смешивать",
+        "ru": "mix - mixed - mixed",
+        "imageUrl": "https://placehold.co/400x300?text=mix"
+    },
+    {
+        "id": 800,
+        "category": "regular_verbs",
+        "en": "Умножать",
+        "ru": "multiply - multiplied - multiplied",
+        "imageUrl": "https://placehold.co/400x300?text=multiply"
+    },
+    {
+        "id": 801,
+        "category": "regular_verbs",
+        "en": "Убивать (умышленно)",
+        "ru": "murder - murdered - murdered",
+        "imageUrl": "https://placehold.co/400x300?text=murder"
+    },
+    {
+        "id": 802,
+        "category": "regular_verbs",
+        "en": "Называть",
+        "ru": "name - named - named",
+        "imageUrl": "https://placehold.co/400x300?text=name"
+    },
+    {
+        "id": 803,
+        "category": "regular_verbs",
+        "en": "Замечать",
+        "ru": "notice - noticed - noticed",
+        "imageUrl": "https://placehold.co/400x300?text=notice"
+    },
+    {
+        "id": 804,
+        "category": "regular_verbs",
+        "en": "Возражать (object)",
+        "ru": "object - objected - objected",
+        "imageUrl": "https://placehold.co/400x300?text=object"
+    },
+    {
+        "id": 805,
+        "category": "regular_verbs",
+        "en": "Наблюдать",
+        "ru": "observe - observed - observed",
+        "imageUrl": "https://placehold.co/400x300?text=observe"
+    },
+    {
+        "id": 806,
+        "category": "regular_verbs",
+        "en": "Получать / Приобретать",
+        "ru": "obtain - obtained - obtained",
+        "imageUrl": "https://placehold.co/400x300?text=obtain"
+    },
+    {
+        "id": 807,
+        "category": "regular_verbs",
+        "en": "Происходить",
+        "ru": "occur - occurred - occurred",
+        "imageUrl": "https://placehold.co/400x300?text=occur"
+    },
+    {
+        "id": 808,
+        "category": "regular_verbs",
+        "en": "Предлагать",
+        "ru": "offer - offered - offered",
+        "imageUrl": "https://placehold.co/400x300?text=offer"
+    },
+    {
+        "id": 809,
+        "category": "regular_verbs",
+        "en": "Управлять (механизмом)",
+        "ru": "operate - operated - operated",
+        "imageUrl": "https://placehold.co/400x300?text=operate"
+    },
+    {
+        "id": 810,
+        "category": "regular_verbs",
+        "en": "Заказывать / Приказывать",
+        "ru": "order - ordered - ordered",
+        "imageUrl": "https://placehold.co/400x300?text=order"
+    },
+    {
+        "id": 811,
+        "category": "regular_verbs",
+        "en": "Организовывать",
+        "ru": "organize - organized - organized",
+        "imageUrl": "https://placehold.co/400x300?text=organize"
+    },
+    {
+        "id": 812,
+        "category": "regular_verbs",
+        "en": "Упаковывать",
+        "ru": "pack - packed - packed",
+        "imageUrl": "https://placehold.co/400x300?text=pack"
+    },
+    {
+        "id": 813,
+        "category": "regular_verbs",
+        "en": "Красить",
+        "ru": "paint - painted - painted",
+        "imageUrl": "https://placehold.co/400x300?text=paint"
+    },
+    {
+        "id": 814,
+        "category": "regular_verbs",
+        "en": "Парковаться",
+        "ru": "park - parked - parked",
+        "imageUrl": "https://placehold.co/400x300?text=park"
+    },
+    {
+        "id": 815,
+        "category": "regular_verbs",
+        "en": "Проходить / Передавать",
+        "ru": "pass - passed - passed",
+        "imageUrl": "https://placehold.co/400x300?text=pass"
+    },
+    {
+        "id": 816,
+        "category": "regular_verbs",
+        "en": "Делать паузу",
+        "ru": "pause - paused - paused",
+        "imageUrl": "https://placehold.co/400x300?text=pause"
+    },
+    {
+        "id": 817,
+        "category": "regular_verbs",
+        "en": "Выступать / Выполнять",
+        "ru": "perform - performed - performed",
+        "imageUrl": "https://placehold.co/400x300?text=perform"
+    },
+    {
+        "id": 818,
+        "category": "regular_verbs",
+        "en": "Разрешать (permit)",
+        "ru": "permit - permitted - permitted",
+        "imageUrl": "https://placehold.co/400x300?text=permit"
+    },
+    {
+        "id": 819,
+        "category": "regular_verbs",
+        "en": "Убеждать",
+        "ru": "persuade - persuaded - persuaded",
+        "imageUrl": "https://placehold.co/400x300?text=persuade"
+    },
+    {
+        "id": 820,
+        "category": "regular_verbs",
+        "en": "Звонить (по телефону)",
+        "ru": "phone - phoned - phoned",
+        "imageUrl": "https://placehold.co/400x300?text=phone"
+    },
+    {
+        "id": 821,
+        "category": "regular_verbs",
+        "en": "Выбирать / Собирать",
+        "ru": "pick - picked - picked",
+        "imageUrl": "https://placehold.co/400x300?text=pick"
+    },
+    {
+        "id": 822,
+        "category": "regular_verbs",
+        "en": "Помещать",
+        "ru": "place - placed - placed",
+        "imageUrl": "https://placehold.co/400x300?text=place"
+    },
+    {
+        "id": 823,
+        "category": "regular_verbs",
+        "en": "Планировать",
+        "ru": "plan - planned - planned",
+        "imageUrl": "https://placehold.co/400x300?text=plan"
+    },
+    {
+        "id": 824,
+        "category": "regular_verbs",
+        "en": "Сажать (растения)",
+        "ru": "plant - planted - planted",
+        "imageUrl": "https://placehold.co/400x300?text=plant"
+    },
+    {
+        "id": 825,
+        "category": "regular_verbs",
+        "en": "Указывать",
+        "ru": "point - pointed - pointed",
+        "imageUrl": "https://placehold.co/400x300?text=point"
+    },
+    {
+        "id": 826,
+        "category": "regular_verbs",
+        "en": "Публиковать",
+        "ru": "post - posted - posted",
+        "imageUrl": "https://placehold.co/400x300?text=post"
+    },
+    {
+        "id": 827,
+        "category": "regular_verbs",
+        "en": "Наливать",
+        "ru": "pour - poured - poured",
+        "imageUrl": "https://placehold.co/400x300?text=pour"
+    },
+    {
+        "id": 828,
+        "category": "regular_verbs",
+        "en": "Практиковаться",
+        "ru": "practice - practiced - practiced",
+        "imageUrl": "https://placehold.co/400x300?text=practice"
+    },
+    {
+        "id": 829,
+        "category": "regular_verbs",
+        "en": "Молиться",
+        "ru": "pray - prayed - prayed",
+        "imageUrl": "https://placehold.co/400x300?text=pray"
+    },
+    {
+        "id": 830,
+        "category": "regular_verbs",
+        "en": "Предсказывать",
+        "ru": "predict - predicted - predicted",
+        "imageUrl": "https://placehold.co/400x300?text=predict"
+    },
+    {
+        "id": 831,
+        "category": "regular_verbs",
+        "en": "Предпочитать",
+        "ru": "prefer - preferred - preferred",
+        "imageUrl": "https://placehold.co/400x300?text=prefer"
+    },
+    {
+        "id": 832,
+        "category": "regular_verbs",
+        "en": "Подготавливать",
+        "ru": "prepare - prepared - prepared",
+        "imageUrl": "https://placehold.co/400x300?text=prepare"
+    },
+    {
+        "id": 833,
+        "category": "regular_verbs",
+        "en": "Презентовать",
+        "ru": "present - presented - presented",
+        "imageUrl": "https://placehold.co/400x300?text=present"
+    },
+    {
+        "id": 834,
+        "category": "regular_verbs",
+        "en": "Нажимать",
+        "ru": "press - pressed - pressed",
+        "imageUrl": "https://placehold.co/400x300?text=press"
+    },
+    {
+        "id": 835,
+        "category": "regular_verbs",
+        "en": "Притворяться",
+        "ru": "pretend - pretended - pretended",
+        "imageUrl": "https://placehold.co/400x300?text=pretend"
+    },
+    {
+        "id": 836,
+        "category": "regular_verbs",
+        "en": "Предотвращать",
+        "ru": "prevent - prevented - prevented",
+        "imageUrl": "https://placehold.co/400x300?text=prevent"
+    },
+    {
+        "id": 837,
+        "category": "regular_verbs",
+        "en": "Печатать",
+        "ru": "print - printed - printed",
+        "imageUrl": "https://placehold.co/400x300?text=print"
+    },
+    {
+        "id": 838,
+        "category": "regular_verbs",
+        "en": "Обрабатывать",
+        "ru": "process - processed - processed",
+        "imageUrl": "https://placehold.co/400x300?text=process"
+    },
+    {
+        "id": 839,
+        "category": "regular_verbs",
+        "en": "Производить",
+        "ru": "produce - produced - produced",
+        "imageUrl": "https://placehold.co/400x300?text=produce"
+    },
+    {
+        "id": 840,
+        "category": "regular_verbs",
+        "en": "Обещать",
+        "ru": "promise - promised - promised",
+        "imageUrl": "https://placehold.co/400x300?text=promise"
+    },
+    {
+        "id": 841,
+        "category": "regular_verbs",
+        "en": "Защищать",
+        "ru": "protect - protected - protected",
+        "imageUrl": "https://placehold.co/400x300?text=protect"
+    },
+    {
+        "id": 842,
+        "category": "regular_verbs",
+        "en": "Доказывать",
+        "ru": "prove - proved - proved",
+        "imageUrl": "https://placehold.co/400x300?text=prove"
+    },
+    {
+        "id": 843,
+        "category": "regular_verbs",
+        "en": "Тянуть",
+        "ru": "pull - pulled - pulled",
+        "imageUrl": "https://placehold.co/400x300?text=pull"
+    },
+    {
+        "id": 844,
+        "category": "regular_verbs",
+        "en": "Качать (насосом)",
+        "ru": "pump - pumped - pumped",
+        "imageUrl": "https://placehold.co/400x300?text=pump"
+    },
+    {
+        "id": 845,
+        "category": "regular_verbs",
+        "en": "Бить кулаком",
+        "ru": "punch - punched - punched",
+        "imageUrl": "https://placehold.co/400x300?text=punch"
+    },
+    {
+        "id": 846,
+        "category": "regular_verbs",
+        "en": "Наказывать",
+        "ru": "punish - punished - punished",
+        "imageUrl": "https://placehold.co/400x300?text=punish"
+    },
+    {
+        "id": 847,
+        "category": "regular_verbs",
+        "en": "Толкать",
+        "ru": "push - pushed - pushed",
+        "imageUrl": "https://placehold.co/400x300?text=push"
+    },
+    {
+        "id": 848,
+        "category": "regular_verbs",
+        "en": "Ставить под сомнение",
+        "ru": "question - questioned - questioned",
+        "imageUrl": "https://placehold.co/400x300?text=question"
+    },
+    {
+        "id": 849,
+        "category": "regular_verbs",
+        "en": "Участвовать в гонке",
+        "ru": "race - raced - raced",
+        "imageUrl": "https://placehold.co/400x300?text=race"
+    },
+    {
+        "id": 850,
+        "category": "regular_verbs",
+        "en": "Идти (о дожде)",
+        "ru": "rain - rained - rained",
+        "imageUrl": "https://placehold.co/400x300?text=rain"
+    },
+    {
+        "id": 851,
+        "category": "regular_verbs",
+        "en": "Поднимать / Растить",
+        "ru": "raise - raised - raised",
+        "imageUrl": "https://placehold.co/400x300?text=raise"
+    },
+    {
+        "id": 852,
+        "category": "regular_verbs",
+        "en": "Достигать (reach)",
+        "ru": "reach - reached - reached",
+        "imageUrl": "https://placehold.co/400x300?text=reach"
+    },
+    {
+        "id": 853,
+        "category": "regular_verbs",
+        "en": "Осознавать",
+        "ru": "realize - realized - realized",
+        "imageUrl": "https://placehold.co/400x300?text=realize"
+    },
+    {
+        "id": 854,
+        "category": "regular_verbs",
+        "en": "Распознавать",
+        "ru": "recognize - recognized - recognized",
+        "imageUrl": "https://placehold.co/400x300?text=recognize"
     }
 ]
